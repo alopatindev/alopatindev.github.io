@@ -12,6 +12,7 @@ url: "https://alopatindev.github.io" # the base hostname & protocol for your sit
 github_username: alopatindev
 facebook_username: alopatindev
 linkedin_username: AlexanderLopatin
+disqus_shortname: alopatindev
 rss: true
 
 # Build settings
