@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img id="avatar" src="/pictures/avatar.jpg">
+
 Hi. I'm **Alexander Lopatin**
 
 - **Software Engineer** with mobile **Game Development** background
