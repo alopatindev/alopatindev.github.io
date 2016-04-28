@@ -109,6 +109,22 @@
 
 .contact-list,
 .social-media-list {
+    li {
+        display: inline;
+        margin: $spacing-unit / 4;
+        a {
+            &:hover {
+                text-decoration: none;
+                .icon {
+                    > svg {
+                        path {
+                            fill: $brand-color;
+                        }
+                    }
+                }
+            }
+        }
+    }
     list-style: none;
     margin-left: 0;
 }
