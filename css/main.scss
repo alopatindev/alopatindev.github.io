@@ -3,10 +3,12 @@
 ---
 @charset "utf-8";
 
-
+@import "../fonts/Serif/cmun-serif.css";
+@import "../fonts/Bright/cmun-bright.css";
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Computer Modern Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$datetime-font-family: "Computer Modern Bright", sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -49,5 +51,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "svg-icons"
 ;

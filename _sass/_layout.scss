@@ -11,10 +11,11 @@
 }
 
 .site-title {
+    font-variant: small-caps;
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
-    letter-spacing: -1px;
+    letter-spacing: 3px;
     margin-bottom: 0;
     float: left;
 
@@ -26,15 +27,16 @@
 
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 70px;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $text-color;
+        color: $brand-color;
         line-height: $base-line-height;
+        font-size: 25px;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -148,8 +150,8 @@
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+    width:         calc(40% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
@@ -192,11 +194,16 @@
 }
 
 .post-list {
-    margin-left: 0;
+    margin-left: 0px;
+    white-space: nowrap;
     list-style: none;
 
     > li {
         margin-bottom: $spacing-unit;
+        > time {
+            font-family: $datetime-font-family;
+            color: #aaa;
+        }
     }
 }
 
