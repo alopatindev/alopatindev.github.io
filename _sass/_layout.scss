@@ -36,7 +36,8 @@
     .page-link {
         color: $brand-color;
         line-height: $base-line-height;
-        font-size: 25px;
+        font-family: $menu-font-family;
+        font-size: 22px;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -200,6 +201,7 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        font-size: 19px;
         > time {
             font-family: $datetime-font-family;
             color: #aaa;
