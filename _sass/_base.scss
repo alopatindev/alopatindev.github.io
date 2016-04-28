@@ -84,9 +84,20 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  font-family: $headline-font-family;
 }
 
+h2 {
+  margin-bottom: -20px;
+}
 
+h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+h3, h4, h5, h6 {
+  margin-top: 30px;
+}
 
 /**
  * Links
@@ -200,5 +211,19 @@ pre {
     path {
       fill: $grey-color;
     }
+  }
+}
+
+
+.tags {
+  margin-top: -10px;
+  margin-bottom: 10px;
+  .tag {
+    background-color: #ccc;
+    margin: 2px 2px 0px 0;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
   }
 }
