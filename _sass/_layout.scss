@@ -204,13 +204,17 @@
     font-size: 19px;
     > time {
       font-family: $datetime-font-family;
-      color: #aaa;
+      color: $grey-color;
+      @include media-query($on-palm) {
+        display: none;
+      }
     }
   }
 }
 
 .post-meta {
   font-size: $small-font-size;
+  font-family: $datetime-font-family;
   color: $grey-color;
 }
 
@@ -267,9 +271,10 @@
 }
 
 #avatar {
-  width: 80px;
+  width: 100px;
   border-radius: 50%;
   display: block;
-  margin: auto auto 40px auto;
+  margin-left: 30px;
+  margin-bottom: 20px;
   box-shadow: 0 0 0 2px white;
 }
