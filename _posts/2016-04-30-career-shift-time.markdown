@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Career Shift Time!"
-date: 2016-04-29 13:32:00 +0300
+date: 2016-04-30 00:30:00 +0300
 categories: career
 ---
 
