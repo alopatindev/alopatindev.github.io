@@ -2,14 +2,14 @@
 layout: post
 title: "Career Shift Time!"
 date: 2016-04-30 00:30:00 +0300
-categories: career
+categories: career culture
 ---
 
-That might sounds funny to some people but I'm thinking about my next major career change for a long time (about two years now).
+That might sounds funny to some people but I'm thinking about my next major career change during a long period of time (about two years now).
 
 My career history is pretty short:
 
-- started as a QA guy in a small game development company
+- started as a QA guy at a small game development company
 - quickly shifted to Software Engineering
 - eventually got hired by [Electronic Arts](http://www.ea.com), still working there
 
@@ -53,14 +53,14 @@ The culture that would actually work fine to me [was described well](https://www
 
 Eventually I decided to evaluate different activities (originally I called them "industries", but it's not really accurate anymore).
 
-The evaluation was done my personal
+The evaluation was done by my personal
 
 - tech interest (interest in technologies the industry relates to)
 - interest in the industry itself
 - tech experience
 - simplicity (how quickly it's possible to master the technologies)
 
-by writing [a little program in Scala](https://gist.github.com/alopatindev/9fa774c7a375b1772083fc976f6ce168) to see what happens. The last time the output looked like this:
+and by writing [a little program in Scala](https://gist.github.com/alopatindev/9fa774c7a375b1772083fc976f6ce168). The last time the output looked like this:
 
 ```
 Industries
