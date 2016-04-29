@@ -5,9 +5,10 @@
 
 @import "../fonts/Serif/cmun-serif.css";
 @import "../fonts/Bright/cmun-bright.css";
+@import "../fonts/droid/droid-serif.css";
 
 // Our variables
-$base-font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+$base-font-family: "Droid Serif", "DroidSerifRegular", "Palatino Linotype", "Book Antiqua", Palatino, serif;
 $headline-font-family: "Computer Modern Serif", Georgia, sans-serif;
 $datetime-font-family: "Computer Modern Bright", sans-serif;
 $menu-font-family: "Computer Modern Bright", serif;

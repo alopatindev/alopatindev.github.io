@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'DroidSerifRegular';
+  src: url('DroidSerif-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DroidSerifItalic';
+  src: url('DroidSerif-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DroidSerifBold';
+  src: url('DroidSerif-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DroidSerifBoldItalic';
+  src: url('DroidSerif-BoldItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
