@@ -4,8 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Open Source
----
+## Open Source
 
 #### [QDeviceMonitor](https://github.com/alopatindev/qdevicemonitor)
 <div class="tags">
@@ -72,8 +71,7 @@ My first full Android + Java development and [release experience](https://play.g
 Font viewer with character table.
 One of my first C++/Qt projects
 
-Commercial Projects
----
+## Commercial Projects
 
 #### [SimCity BuildIt](http://www.ea.com/simcity-buildit)
 <div class="tags">
