@@ -132,7 +132,7 @@ Summarizing, for me the **perfect match** would be:
 But that doesn't look realistic for various reasons.
 
 Or it does?
-There's actually [Mozilla](https://www.mozilla.org) with their new [Servo browser engine](https://servo.org) written in Rust by an awesome team distributed around the world (not sure they've got relocation support to NZ though).
+There's actually [Mozilla](https://www.mozilla.org) with their new [Servo browser engine](https://servo.org) written in Rust by an awesome team distributed around the world (not sure they've got a relocation support to NZ though).
 
 Wish they had such a full-time opportunity, I would apply right away.
 
