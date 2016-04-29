@@ -19,3 +19,4 @@ rss: true
 
 # Build settings
 markdown: kramdown
+timezone: Europe/Moscow
