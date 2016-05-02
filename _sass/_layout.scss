@@ -200,13 +200,25 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit / 2;
     font-size: 19px;
+
     > time {
+      font-size: 18px;
+      width: 105px;
+      display: inline-block;
+      text-align: right;
       font-family: $datetime-font-family;
       color: $grey-color;
       @include media-query($on-palm) {
         display: none;
+      }
+    }
+
+    > a {
+      margin-left: 10px;
+      @include media-query($on-palm) {
+        margin-left: -20px;
       }
     }
   }
@@ -278,4 +290,32 @@
   margin-left: 30px;
   margin-bottom: 20px;
   box-shadow: 0 0 0 2px white;
+}
+
+img[alt="minipic"] {
+  max-width: 250px;
+  margin: 5px 5px 5px 5px;
+  @include media-query($on-palm) {
+    max-width: 200px;
+  }
+}
+
+img[alt="smile"] {
+  max-width: 50px;
+}
+
+#youtube {
+  width: 100%;
+
+  iframe {
+    display: block;
+    margin: auto auto 20px auto;
+    width:425px;
+    height:240px;
+    @include media-query($on-palm) {
+      display: block;
+      width:212px;
+      height:120px;
+    }
+  }
 }
