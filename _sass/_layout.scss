@@ -220,6 +220,9 @@
       @include media-query($on-palm) {
         margin-left: -20px;
       }
+      @include media-query($on-laptop) {
+        margin-left: 0px;
+      }
     }
   }
 }
