@@ -145,7 +145,8 @@ If I won't find anything related, I'll try something different:
   - write some useful tool in Rust and then make some contributions to Servo project
     - no idea what even to try
     - surprisingly there are already so many projects in Rust
-  - something Bitcoin-related?
+  - something Bitcoin-related
+  - participate in hackathons?
 - or some Back-End stuff (I was always curious about distributed computations using things like [Scala](http://www.scala-lang.org) and akka-stream)
   - unless it's about data analysis
 
