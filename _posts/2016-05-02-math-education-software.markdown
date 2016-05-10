@@ -10,7 +10,6 @@ I'm still impressed by a talk "Teaching kids real math with computers" that Conr
 <div id="youtube">
   <iframe
     src="https://www.youtube.com/embed/60OVlfAUPJg"
-    frameborder="0"
     allowfullscreen>
   </iframe>
 </div>

@@ -315,6 +315,7 @@ img[alt="smile"] {
     margin: auto auto 20px auto;
     width:425px;
     height:240px;
+    border: 0px;
     @include media-query($on-palm) {
       display: block;
       width:212px;
