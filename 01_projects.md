@@ -48,6 +48,7 @@ Android + Scala experiment: Mobile Network Operator Tracker for Android
   <span class="tag">Objective-C</span>
   <span class="tag">iOS</span>
 </div>
+Client software for Libre.fm music service.
 My first full iOS + Objective-C development and release experience (discontinued)
 
 #### [SMS no more](https://github.com/alopatindev/smsnenado)
