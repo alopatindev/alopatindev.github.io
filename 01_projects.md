@@ -27,7 +27,7 @@ Crossplatform (GNU/Linux, OS X, Windows) log viewer for Android, iOS and text fi
 <div class="tags">
   <span class="tag">Scala</span>
   <span class="tag">ReactiveX</span>
-  <span class="tag">Opengl ES</span>
+  <span class="tag">OpenGL ES</span>
   <span class="tag">sbt</span>
   <span class="tag">Android</span>
 </div>
