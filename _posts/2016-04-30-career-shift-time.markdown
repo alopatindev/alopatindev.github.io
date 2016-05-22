@@ -51,20 +51,20 @@ The culture that would actually work fine to me [was described well](https://www
 
 ### Choosing things based on Technologies
 
-Eventually I decided to evaluate different activities (originally I called them "industries", but it's not really accurate anymore).
+Eventually I decided to evaluate different domains.
 
 The evaluation was done by my personal
 
-- tech interest (interest in technologies the industry relates to)
-- interest in the industry itself
+- tech interest (interest in technologies the domain relates to)
+- interest in the domain itself
 - tech experience
 - simplicity (how quickly it's possible to master the technologies)
 
 and by writing [a little program in Scala](https://gist.github.com/alopatindev/9fa774c7a375b1772083fc976f6ce168). The last time the output looked like this:
 
 ```
-Industries
-industry                   tech.interest  ind.interest   knowledge      xp             simplicity     average
+Domains
+domain                     tech.interest  dom.interest   knowledge      xp             simplicity     average
 -------------------------------------------------------------------------------------------------------------
 GNU/Linux Distro Dev       75%            70%            67%            77%            93%            76%
 Linux Kernel Dev           66%            60%            50%            51%            89%            63%
@@ -110,7 +110,7 @@ That's hard to do constructively so I didn't expect to see something too surpris
 
 But it makes some idea of what I might feel comfortable with.
 
-BTW, instead of industries/activities it's possible to put any concrete job opportunity details to see its rating.
+BTW, instead of domains it's possible to put any concrete job opportunity details to see its rating.
 Also this tool can be expanded to a powerful job opportunities searching website.
 I'll leave this idea here for some startup company. Go ahead if you want to implement it ;)
 
