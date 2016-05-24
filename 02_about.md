@@ -11,4 +11,5 @@ Hi, I'm **Alexander Lopatin**
 - **Software Engineer** with mobile Game Development background
 - currently working at **Electronic Arts (EA Games)** in Saint Petersburg (Russia)
 - in love with **programming** (since 12 yo) and [**Open Source**](/projects)
-- extremely interested in **changing industry** and **relocation** to **New Zealand** ([detailed resumé](https://git.io/vVMdk))
+- extremely interested in **changing industry** ([download resumé in PDF](https://git.io/vVMdk))
+- curious about **New Zealand** and **Canada**, willing to relocate
