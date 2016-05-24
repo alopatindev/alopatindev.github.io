@@ -39,7 +39,7 @@ Mr. Wolfram shows examples of **interactive programs** developed in Wolfram Math
 
 I think **kids primarily need these** kind of programs right now, not the Wolfram Language itself.
 
-### How to achieve it
+### How to Achieve It
 The first idea came to my mind is to develop a proper UI (probably a web front-end) for one or several of the existing free software programs.
 
 But the easiest way to achieve that is... probably just to write them in Wolfram Language.
