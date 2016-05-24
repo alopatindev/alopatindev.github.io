@@ -39,10 +39,13 @@ Mr. Wolfram shows examples of **interactive programs** developed in Wolfram Math
 
 I think **kids primarily need these** kind of programs right now, not the Wolfram Language itself.
 
-The easiest way to achieve that is... probably just to write them in Wolfram Language.
+### How to achieve it
+The first idea came to my mind is to develop a proper UI (probably a web front-end) for one or several of the existing free software programs.
+
+But the easiest way to achieve that is... probably just to write them in Wolfram Language.
 ![smile](/pictures/smiles/you-dont-say.png)
 
-Fortunately, there's a free software alternative to Mathematica called [Mathics](https://mathics.github.io).
+Fortunately, there's a **free software alternative to Mathematica** called [Mathics](https://mathics.github.io).
 This can help with making such programs available for everyone.
 
 The development of such programs is a very challenging problem though.
