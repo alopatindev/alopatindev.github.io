@@ -55,7 +55,7 @@ My first full iOS + Objective-C development and release experience (discontinued
 <div class="tags">
   <span class="tag">Java</span>
   <span class="tag">Android</span>
-  <span class="tag">sqlite</span>
+  <span class="tag">SQLite</span>
   <span class="tag">Ant</span>
   <span class="tag">bash</span>
 </div>
