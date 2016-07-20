@@ -8,8 +8,6 @@ permalink: /about/
 
 Hi, I'm **Alexander Lopatin**
 
-- **Software Engineer** with mobile Game Development background
-- currently working at **Electronic Arts (EA Games)** in Saint Petersburg (Russia)
-- in love with **programming** (since 12 yo) and [**Open Source**](/projects)
-- willing to **shift from** game development industry ([my resumé in PDF](https://git.io/vVMdk))
-- curious about **New Zealand** and **Canada**, willing to relocate
+- **Software Engineer**
+- used to work at **EA Games** (but not a game developer anymore)
+- looking for **Free Software** Development Opportunities ([my resumé in PDF](https://git.io/vVMdk))
