@@ -85,9 +85,9 @@ One of my first C++/Qt projects
   <span class="tag">Amazon Kindle</span>
   <span class="tag">iOS</span>
 </div>
-- debugging (common and platform-specific issues)
-- implementation of platform-specific features, downloading system and telemetry events
-- third-party video ads and notifications service integration
+- implemented platform-specific features, downloading system and telemetry events
+- integrated third-party video ads and notifications service
+- improved stability
 
 #### [Tetris Blitz](http://www.tetrisblitz.com)
 <div class="tags">
@@ -99,7 +99,9 @@ One of my first C++/Qt projects
   <span class="tag">Amazon Kindle</span>
   <span class="tag">Windows Phone</span>
 </div>
-Debugged common and platform-specific issues, improved downloading system, integrated third-party ads and telemetry services
+- debugged common and platform-specific issues
+- improved downloading system
+- integrated third-party ads and telemetry services
 
 #### [Real Racing 3](http://www.ea.com/real-racing-3)
 <div class="tags">
@@ -109,7 +111,8 @@ Debugged common and platform-specific issues, improved downloading system, integ
   <span class="tag">Android</span>
   <span class="tag">Amazon Kindle</span>
 </div>
-Debugged (GUI, networking, memory management, device-specific and common bugs). Improved interaction with OS
+- debugged (GUI, networking, memory management, device-specific and common bugs)
+- improved interaction with OS
 
 #### [Phineas and Ferb: Time Travelers](http://java.mob.org/game/phineas_and_ferb_time_travelers.html)
 <div class="tags">
@@ -125,5 +128,7 @@ Debugged and ported to various devices
   <span class="tag">iOS</span>
   <span class="tag">Android</span>
   <span class="tag">Amazon Kindle</span>
+  <span class="tag">BlackBerry</span>
 </div>
-Debugged, ported, developed additional game features
+- developed some game features
+- ported to Android and BlackBerry
