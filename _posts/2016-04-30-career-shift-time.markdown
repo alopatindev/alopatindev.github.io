@@ -11,7 +11,7 @@ My career history is pretty short:
 
 - started as a QA guy at a small game development company
 - quickly shifted to Software Engineering
-- eventually got hired by [Electronic Arts](http://www.ea.com), still working there
+- eventually got hired by [Electronic Arts](http://www.ea.com), <s>still working there</s>
 
 I want to share with you some things that affect my choice in the upcoming career change.
 
