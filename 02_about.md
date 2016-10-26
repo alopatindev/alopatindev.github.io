@@ -8,6 +8,6 @@ permalink: /about/
 
 Hi, I'm **Alexander Lopatin**
 
-- **Software Engineer**
+- love to **code**
 - used to work at **EA Games** (but not a game developer anymore)
-- looking for **Free Software** Development Opportunities ([my resumé in PDF](https://git.io/vVMdk))
+- open to **job opportunities** with a focus on **Free and Open Source Software** ([my resumé in PDF](https://git.io/vVMdk))
