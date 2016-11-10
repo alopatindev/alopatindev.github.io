@@ -56,3 +56,6 @@ The development of such programs is a very challenging problem though.
 
 Curriculum and UI/UX.
 These are definitely a huge work.
+
+**UPDATE**: it turns out that math education for kids is a popular topic at TED**x** Talks right now
+([[1]](https://www.youtube.com/watch?v=V6yixyiJcos&t=3m19s), [[2]](https://www.youtube.com/watch?v=3icoSeGqQtY&t=3m52s)).
