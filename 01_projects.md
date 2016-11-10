@@ -6,6 +6,19 @@ permalink: /projects/
 
 ## Open Source
 
+#### [colorcargo](https://github.com/alopatindev/colorcargo)
+<div class="tags">
+  <span class="tag">Python</span>
+</div>
+A wrapper for `cargo` (Rust package manager) that colorizes stack traces
+
+#### [iwls](https://github.com/alopatindev/iwls)
+<div class="tags">
+  <span class="tag">Rust</span>
+  <span class="tag">Travis CI</span>
+</div>
+A tool that shows available Wi-Fi APs and suggests the best channel to use
+
 #### [QDeviceMonitor](https://github.com/alopatindev/qdevicemonitor)
 <div class="tags">
   <span class="tag">C++</span>
