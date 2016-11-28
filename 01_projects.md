@@ -10,7 +10,7 @@ permalink: /projects/
 <div class="tags">
   <span class="tag">Python</span>
 </div>
-A wrapper for `cargo` (Rust package manager) that colorizes stack traces
+A wrapper for `cargo` (Rust's package manager) that makes stack traces readable
 
 #### [iwls](https://github.com/alopatindev/iwls)
 <div class="tags">
