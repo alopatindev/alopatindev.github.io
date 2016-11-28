@@ -120,14 +120,14 @@ I figured out what I should **avoid**:
 
 - Enterprise Development (classical Java EE and Finance-related stuff)
 - Game Development
-- Data Science
+- Data Analysis/Science (there's a possibility I will change my mind after some learning)
 
 Summarizing, for me the **perfect match** would be:
 
-- Client Side Development (particularly for GNU/Linux and maybe Android)
+- Client Side Development (particularly for GNU/Linux)
 - Modern Technology Stack with new languages (like [Rust](https://www.rust-lang.org) or [Kotlin](https://kotlinlang.org) for instance), partially with Functional Programming
 - Free/Libre and Open Source software **development** and **use**
-- Office in New Zealand and help with Relocation from Russia
+- Office in New Zealand and help with Relocation
 
 But that doesn't look realistic for various reasons.
 
@@ -148,6 +148,5 @@ If I won't find anything related, I'll try something different:
   - something Bitcoin-related
   - participate in hackathons?
 - or some Back-End stuff (I was always curious about distributed computations using things like [Scala](http://www.scala-lang.org) and akka-stream)
-  - unless it's about data analysis
 
 Or maybe somebody has a better suggestion?
