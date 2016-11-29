@@ -7,7 +7,7 @@ categories: mooc courses learning computer science algorithms math
 
 Since I left my job I decided to refresh my knowledge, learn new things and make some fun with pet projects. Full-time.
 
-These are the courses I use. The most enjoyable are highlighted.
+These are the materials I use. The most enjoyable are highlighted.
 
 #### Functional Programming
 - [x][**Functional Programming Principles in Scala**](https://www.coursera.org/learn/progfun1)
@@ -20,6 +20,12 @@ These are the courses I use. The most enjoyable are highlighted.
 
 #### Object-Oriented Programming
 - [x][**Design Patterns (Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
+
+#### The Rust Programming Language
+- [x] ["The Book"](https://doc.rust-lang.org/book/)
+- [x] [Rust by Example](http://rustbyexample.com/)
+- [x] [**Learning Rust With Entirely Too Many Linked Lists**](http://cglab.ca/~abeinges/blah/too-many-lists/book/)
+- [x] [New Rustacean Podcast](http://www.newrustacean.com/show_notes/index.html)
 
 #### Algorithms and Data Structures
 - [x][**MIT 6.006 Introduction to Algorithms**](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
