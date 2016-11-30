@@ -12,7 +12,7 @@ These are the materials I use. The most enjoyable are highlighted.
 #### Functional Programming
 - [x][**Functional Programming Principles in Scala**](https://www.coursera.org/learn/progfun1)
 - [x][Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
-- [x][**Functional Programming in Haskell (Russian)**](https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75/)
+- [x][**Functional Programming in Haskell (Russian)**](https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75)
 
 #### Parallel Programming
 - [x][**Parallel Programming (Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT)
@@ -22,9 +22,9 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][**Design Patterns (Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
 
 #### The Rust Programming Language
-- [x] ["The Book"](https://doc.rust-lang.org/book/)
-- [x] [Rust by Example](http://rustbyexample.com/)
-- [x] [**Learning Rust With Entirely Too Many Linked Lists**](http://cglab.ca/~abeinges/blah/too-many-lists/book/)
+- [x] ["The Book"](https://doc.rust-lang.org/book)
+- [x] [Rust by Example](http://rustbyexample.com)
+- [x] [**Learning Rust With Entirely Too Many Linked Lists**](http://cglab.ca/~abeinges/blah/too-many-lists/book)
 - [x] [New Rustacean Podcast](http://www.newrustacean.com/show_notes/index.html)
 
 #### Algorithms and Data Structures
@@ -50,6 +50,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [ ][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do)
 
 #### Mathematics
+- [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480)
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
 - [ ][MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 
@@ -59,7 +60,11 @@ These are the materials I use. The most enjoyable are highlighted.
 #### Data Analysis
 - [ ][Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys)
 
-#### English
-- [ ][Easy Way to Technical Writing (Stepik)](https://stepik.org/course/Easy-way-to-technical-writing-684/)
+#### Other
+- [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [x][**Cracking the Coding Interview**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [x][Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices)
+- [ ][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684)
+- [ ][Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525)
 
 I'm also looking for good courses related to Databases and Statistics
