@@ -66,3 +66,38 @@ These are the materials I use. The most enjoyable are highlighted.
 - [ ][Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525)
 
 I'm also looking for good courses related to Databases and Statistics
+
+---
+
+# **What I've learnt so far**
+
+- **Object-Oriented Programming**
+  - unfortunately most people are taught in a dramatically wrong way nowadays (I'm no exception)
+  - the right way is actually to focus on [GRASP principles](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+    (this will, at least, help you constructively choose GoF (or whatever) patterns, when you *really* need them)
+- **Scala Programming Language**
+  - pros
+    - a successful combination of FP + OOP paradigms
+    - easier to learn than classical FP languages (e.g. Haskell)
+    - relatively large community
+    - relatively fast programmer's performance
+    - a part of JVM world with its huge well-tried libraries choice
+  - cons
+    - slow compilation (probably will be fixed after migrating to the new compiler and linker [Dotty](http://dotty.epfl.ch))
+    - slow package manager
+    - pretty large builds (probably one of the reasons to not use on Android; [Dotty](http://dotty.epfl.ch) will probably fix it as well)
+- **Rust Programming Language**
+  - pros
+    - a unique set of concepts that encourage people to write safe and performant code
+    - fast modern tools that are really made with love (package manager, auto format, linter, ...)
+    - documentation generation is handy
+  - cons
+    - the compiler just doesn't let you write a clean code sometimes
+    - struggling with compiler can unexpectedly waste plenty of time
+    - weird strings API (`String`, `&str`, `OsString`, ...—lead to weird explicit conversions; [`String::len(&self)`](https://doc.rust-lang.org/std/string/struct.String.html#method.len) is not a length)
+    - you actually can do some [sort of implicit conversions](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) but this will probably complicate your code anyway
+    - [no tail-call optimization](https://github.com/rust-lang/rust/issues/217)
+    - [no default arguments values](https://github.com/rust-lang/rust/issues/6973)
+- **Algorithms and Data Structures**
+  - after looking for *dozens* of Algorithms video courses it turns out that the clearest courses are made by MIT (specifically, the best professor is [Erik Demaine](http://erikdemaine.org/), in my opinion)
+  - there's no such thing as *"the best Algorithms course"* anyway; when something is unclear you can always find an alternative explanation at YouTube
