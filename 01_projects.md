@@ -6,6 +6,12 @@ permalink: /projects/
 
 ## Open Source
 
+#### [LulzVM](https://github.com/alopatindev/lulzvm)
+<div class="tags">
+  <span class="tag">Rust</span>
+</div>
+Byte-code interpreter for educational purposes
+
 #### [colorcargo](https://github.com/alopatindev/colorcargo)
 <div class="tags">
   <span class="tag">Python</span>
