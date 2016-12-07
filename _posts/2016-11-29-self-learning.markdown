@@ -10,16 +10,16 @@ Since I left my job I decided to refresh my knowledge, learn new things and make
 These are the materials I use. The most enjoyable are highlighted.
 
 #### Functional Programming
-- [x][**Functional Programming Principles in Scala**](https://www.coursera.org/learn/progfun1)
-- [x][Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
-- [x][**Functional Programming in Haskell (Russian)**](https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75)
+- [x][**Functional Programming Principles in Scala (EPFL)**](https://www.coursera.org/learn/progfun1)
+- [x][Functional Program Design in Scala (EPFL)](https://www.coursera.org/learn/progfun2)
+- [x][**Functional Programming in Haskell (Denis Moskvin, Russian)**](https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75)
 
 #### Parallel Programming
-- [x][**Parallel Programming (Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT)
-- [x][Parallel Programming (JVM and Scala)](https://www.coursera.org/learn/parprog1)
+- [x][**Parallel Programming (Evgeny Kalishenko, Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT)
+- [x][Parallel Programming (EPFL, JVM, Scala)](https://www.coursera.org/learn/parprog1)
 
 #### Object-Oriented Programming
-- [x][**Design Patterns (Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
+- [x][**Design Patterns (Sergey Nemchinsky, Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
 
 #### The Rust Programming Language
 - [x] ["The Book"](https://doc.rust-lang.org/book)
@@ -56,7 +56,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [ ][MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PL8FE88AA54363BC46)
 
 #### Data Analysis
-- [ ][Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys)
+- [ ][Big Data Analysis with Scala and Spark (EPFL)](https://www.coursera.org/learn/big-data-analysys)
 
 #### Other
 - [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
