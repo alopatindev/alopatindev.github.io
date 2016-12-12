@@ -53,7 +53,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [ ][MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 
 #### Parsing and Compiling
-- [ ][MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PL8FE88AA54363BC46)
+- [x][MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PL8FE88AA54363BC46) (lectures 9A—10B)
 
 #### Data Analysis
 - [ ][Big Data Analysis with Scala and Spark (EPFL)](https://www.coursera.org/learn/big-data-analysys)
