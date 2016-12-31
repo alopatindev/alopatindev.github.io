@@ -63,7 +63,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [x][**Cracking the Coding Interview**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [x][Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices)
-- [ ][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684)
+- [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684)
 - [ ][Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525)
 
 I'm also looking for good courses related to Databases and Statistics
