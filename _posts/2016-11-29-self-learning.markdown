@@ -61,7 +61,7 @@ These are the materials I use. The most enjoyable are highlighted.
 
 #### English
 - [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684)
-- [ ][Inside IELTS: Preparing for the Test with the Experts](https://www.futurelearn.com/courses/cambridge-english-ielts)
+- [x][Inside IELTS: Preparing for the Test with the Experts](https://www.futurelearn.com/courses/cambridge-english-ielts)
 
 #### Other
 - [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
