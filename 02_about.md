@@ -8,6 +8,6 @@ permalink: /about/
 
 Hi, I'm **Alexander Lopatin**
 
-- love to **code**
-- used to work at **EA Games** (but not a game developer anymore)
-- open to **job opportunities** with a focus on **Free and Open Source Software** ([my resumé in PDF](https://git.io/vVMdk))
+- used to work at **EA Games**
+- high interest in modern **Server Side** technologies (Node.js, Scala, Akka Streams, etc.)
+- willing to use my skills for **High Performance Backend** Applications Development ([my LinkedIn](https://www.linkedin.com/in/AlexanderLopatin))
