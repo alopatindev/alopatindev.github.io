@@ -8,6 +8,7 @@ permalink: /about/
 
 Hi, I'm **Alexander Lopatin**
 
+- Software Engineer with various technical interest
 - used to work at **EA Games**
-- high interest in modern **Server Side** technologies (Node.js, Scala, Akka Streams, etc.)
-- willing to use my skills for **High Performance Backend** Applications Development ([my LinkedIn](https://www.linkedin.com/in/AlexanderLopatin))
+- right now mostly into **Server Side** technologies (Node.js, Scala, Akka Streams, etc.)
+- open for **job opportunities** ([my LinkedIn](https://www.linkedin.com/in/AlexanderLopatin))
