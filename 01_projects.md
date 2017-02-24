@@ -6,6 +6,15 @@ permalink: /projects/
 
 ## Open Source
 
+#### [Find Telegram Bot](https://github.com/alopatindev/find-telegram-bot)
+A Telegram Bot for finding other Telegram Bots
+<div class="tags">
+  <span class="tag">JavaScript</span>
+  <span class="tag">Node.js</span>
+  <span class="tag">PhantomJS</span>
+  <span class="tag">Telegram</span>
+</div>
+
 #### [LulzVM](https://github.com/alopatindev/lulzvm)
 <div class="tags">
   <span class="tag">Rust</span>
