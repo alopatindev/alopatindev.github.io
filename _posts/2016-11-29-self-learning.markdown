@@ -60,7 +60,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
 
 #### Data Analysis
-- [ ][Big Data Analysis with Scala and Spark (EPFL)](https://www.coursera.org/learn/big-data-analysys)
+- [x][Big Data Analysis with Scala and Spark (EPFL)](https://www.coursera.org/learn/big-data-analysys)
 - [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic)
 
 #### English
