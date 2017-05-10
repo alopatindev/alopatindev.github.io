@@ -50,6 +50,9 @@ These are the materials I use. The most enjoyable are highlighted.
 #### Mathematics
 - [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480)
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
+- [x][The Correlation Coefficient - Explained in Three Steps](https://www.youtube.com/watch?v=ugd4k3dC_8Y)
+- [x][Gradient](https://www.youtube.com/watch?v=tIpKfDc295M)
+- [x][Gradient and graphs](https://www.youtube.com/watch?v=_-02ze7tf08)
 - [ ][MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 
 #### Parsing and Compiling
@@ -62,6 +65,10 @@ These are the materials I use. The most enjoyable are highlighted.
 #### Data Analysis
 - [x][Big Data Analysis with Scala and Spark (EPFL)](https://www.coursera.org/learn/big-data-analysys)
 - [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic)
+- [x][Decision Tree: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0)
+- [x][Support Vector Machines (SVM) by Example](https://www.youtube.com/watch?v=5zRmhOUjjGY)
+- [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU)
+- [ ][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp)
 
 #### English
 - [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684)
