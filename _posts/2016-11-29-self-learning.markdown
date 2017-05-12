@@ -68,7 +68,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Decision Tree: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0)
 - [x][Support Vector Machines (SVM) by Example](https://www.youtube.com/watch?v=5zRmhOUjjGY)
 - [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU)
-- [ ][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp)
+- [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp)
 
 #### English
 - [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684)
