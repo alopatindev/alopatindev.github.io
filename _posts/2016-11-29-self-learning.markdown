@@ -9,31 +9,33 @@ Since I left my job I decided to refresh my knowledge, learn new things and make
 
 These are the materials I use. The most enjoyable are highlighted.
 
-#### Functional Programming
+### Functional Programming
 - [x][**Functional Programming Principles in Scala (EPFL)**](https://www.coursera.org/learn/progfun1)
 - [x][Functional Program Design in Scala (EPFL)](https://www.coursera.org/learn/progfun2)
 - [x][**Functional Programming in Haskell (Denis Moskvin, Russian)**](https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75)
 
-#### Parallel Programming
+### Parallel Programming
 - [x][**Parallel Programming (Evgeny Kalishenko, Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT)
 - [x][Parallel Programming (EPFL, JVM, Scala)](https://www.coursera.org/learn/parprog1)
 
-#### Object-Oriented Programming
+### Object-Oriented Programming
 - [x][**Design Patterns (Sergey Nemchinsky, Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
 
-#### The Rust Programming Language
+### The Rust Programming Language
 - [x] ["The Book"](https://doc.rust-lang.org/book)
 - [x] [Rust by Example](http://rustbyexample.com)
 - [x] [**Learning Rust With Entirely Too Many Linked Lists**](http://cglab.ca/~abeinges/blah/too-many-lists/book)
 - [x] [New Rustacean Podcast](http://www.newrustacean.com/show_notes/index.html)
 
-#### Algorithms and Data Structures
+### Algorithms and Data Structures
 - [x][**MIT 6.006 Introduction to Algorithms**](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [x][MIT 6.046J Design and Analysis of Algorithms](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 - [ ][MIT 6.851 Advanced Data Structures](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 
-#### Other Algorithms Videos
-- [x][**Time Complexity (Russian)**](https://www.youtube.com/watch?v=IsaS0NmgXlg) (from [Basic Algorithms for Middle School Students](https://www.youtube.com/watch?v=npV3mOIZJNc&list=PLDrmKwRSNx7KcHxyf9hSmF3fTLKSwujkM))
+#### Other Materials
+- [x][Time Complexity (Russian)](https://www.youtube.com/watch?v=IsaS0NmgXlg) (from [Basic Algorithms for Middle School Students](https://www.youtube.com/watch?v=npV3mOIZJNc&list=PLDrmKwRSNx7KcHxyf9hSmF3fTLKSwujkM))
+- [x]Time Complexity (from [ITMO's Algorithms](https://openedu.ru/course/ITMOUniversity/PADS/) course, Russian) ([1](http://video-storage.openedu.ru/video/sd/0083/PADS-l3atejl24g.mp4), [2](http://video-storage.openedu.ru/video/sd/0083/PADS-007o20mha9.mp4))
+- [x][**Recurrence Relations**](https://users.cs.duke.edu/~reif/courses/alglectures/skiena.lectures/lecture3.pdf) (contains a typo on slide 7, case 1; try to find it ;))
 - [x][Bit manipulation](https://www.youtube.com/watch?v=NLKQEOgBAnw)
 - [x][Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg)
 - [x][**Counting sort**](https://www.youtube.com/watch?v=7zuGmKfUt7s)
@@ -46,37 +48,42 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Rabin Karp (substring search)](https://www.youtube.com/watch?v=H4VrKHVG5qI) (also there's a good video from [Algorithms II](https://www.coursera.org/learn/java-data-structures-algorithms-2) course)
 - [ ][Wildcard Matching Dynamic Programming](https://www.youtube.com/watch?v=3ZDZ-N0EPV0)
 - [ ][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do)
+- [ ][Edit Distance - Dynamic Programming](https://www.youtube.com/watch?v=xFd5P9nyhTw)
 
-#### Mathematics
+### Mathematics
 - [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480)
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
 - [x][The Correlation Coefficient - Explained in Three Steps](https://www.youtube.com/watch?v=ugd4k3dC_8Y)
+- [x][Expected Value](https://www.youtube.com/watch?v=DAjVAEDil_Q)
 - [x][Gradient](https://www.youtube.com/watch?v=tIpKfDc295M)
 - [x][Gradient and graphs](https://www.youtube.com/watch?v=_-02ze7tf08)
 - [ ][MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 
-#### Parsing and Compiling
+### Parsing and Compiling
 - [x][MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PL8FE88AA54363BC46) (lectures 9A—10B)
 - [ ][Let’s Build A Simple Interpreter (Ruslan Spivak)](https://ruslanspivak.com/lsbasi-part1)
 
-#### Databases
+### Databases
 - [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
 
-#### Data Analysis
+### Data Analysis
 - [x][Big Data Analysis with Scala and Spark (EPFL)](https://www.coursera.org/learn/big-data-analysys)
 - [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic)
-- [x][Decision Tree: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0)
+- [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO))
 - [x][Support Vector Machines (SVM) by Example](https://www.youtube.com/watch?v=5zRmhOUjjGY)
 - [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU)
 - [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp)
 
-#### English
+### English
 - [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684)
 - [x][Inside IELTS: Preparing for the Test with the Experts](https://www.futurelearn.com/courses/cambridge-english-ielts)
 
-#### Other
-- [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+### Interview
 - [x][**Cracking the Coding Interview**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [x][Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
+
+### Other
+- [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [x][Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices)
 - [ ][Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525)
 
