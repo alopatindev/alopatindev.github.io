@@ -53,6 +53,7 @@ These are the materials I use. The most enjoyable are highlighted.
 ### Mathematics
 - [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480)
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
+- [x][Indirect Proofs (Proof by Contradiction, etc.)](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/02/Small02.pdf)
 - [x][The Correlation Coefficient - Explained in Three Steps](https://www.youtube.com/watch?v=ugd4k3dC_8Y)
 - [x][Expected Value](https://www.youtube.com/watch?v=DAjVAEDil_Q)
 - [x][Gradient](https://www.youtube.com/watch?v=tIpKfDc295M)
