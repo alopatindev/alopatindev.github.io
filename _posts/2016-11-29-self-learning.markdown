@@ -43,7 +43,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Kadane's Algorithm (Max Sum Subarray)](https://www.youtube.com/watch?v=86CQq3pKSUw)
 - [x][**Huffman Coding**](https://www.youtube.com/watch?v=ZdooBTdW5bM)
 - [x][Error Control and CRC](https://www.youtube.com/watch?v=LL2QpP4k_HE)
-- [x][Quick Sort](https://www.youtube.com/watch?v=3OLTJlwyIqQ)
+- [x][Quick Sort](https://www.youtube.com/watch?v=3OLTJlwyIqQ), [Quicksort algorithm](https://www.youtube.com/watch?v=COk73cpQbFQ)
 - [x][Traveling Salesman Problem Visualization](https://www.youtube.com/watch?v=SC5CX8drAtU)
 - [x][Rabin Karp (substring search)](https://www.youtube.com/watch?v=H4VrKHVG5qI) (also there's a good video from [Algorithms II](https://www.coursera.org/learn/java-data-structures-algorithms-2) course)
 - [x][Wildcard Matching Dynamic Programming](https://www.youtube.com/watch?v=3ZDZ-N0EPV0)
