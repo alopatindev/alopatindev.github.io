@@ -47,7 +47,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Traveling Salesman Problem Visualization](https://www.youtube.com/watch?v=SC5CX8drAtU)
 - [x][Rabin Karp (substring search)](https://www.youtube.com/watch?v=H4VrKHVG5qI) (also there's a good video from [Algorithms II](https://www.coursera.org/learn/java-data-structures-algorithms-2) course)
 - [x][Wildcard Matching Dynamic Programming](https://www.youtube.com/watch?v=3ZDZ-N0EPV0)
-- [ ][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do)
+- [x][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do)
 - [x][Edit Distance - Dynamic Programming](https://www.youtube.com/watch?v=xFd5P9nyhTw)
 
 ### Mathematics
