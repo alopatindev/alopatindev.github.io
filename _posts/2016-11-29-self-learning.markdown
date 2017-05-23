@@ -49,6 +49,8 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Wildcard Matching Dynamic Programming](https://www.youtube.com/watch?v=3ZDZ-N0EPV0)
 - [x][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do)
 - [x][Edit Distance - Dynamic Programming](https://www.youtube.com/watch?v=xFd5P9nyhTw)
+- [x][Fractional Knapsack Problem (Greedy Algorithm)](https://www.youtube.com/watch?v=_08myilrxq8)
+- [x][0/1 Knapsack Problem Dynamic Programming](https://www.youtube.com/watch?v=8LusJS5-AGo)
 
 ### Mathematics
 - [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480)
