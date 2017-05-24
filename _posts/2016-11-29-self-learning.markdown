@@ -38,6 +38,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][**Recurrence Relations**](https://users.cs.duke.edu/~reif/courses/alglectures/skiena.lectures/lecture3.pdf) (contains a typo on slide 7, case 1; try to find it ;))
 - [x][Bit manipulation](https://www.youtube.com/watch?v=NLKQEOgBAnw)
 - [x][Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg)
+- [x][Binary Heaps](https://www.youtube.com/watch?v=WCm3TqScBM8&list=PLSVu1-lON6Lwqj5nDqg8YyD7f4tjLMMBN)
 - [x][**Counting sort**](https://www.youtube.com/watch?v=7zuGmKfUt7s)
 - [x][Topological sort](https://www.youtube.com/watch?v=ddTC4Zovtbc)
 - [x][Kadane's Algorithm (Max Sum Subarray)](https://www.youtube.com/watch?v=86CQq3pKSUw)
