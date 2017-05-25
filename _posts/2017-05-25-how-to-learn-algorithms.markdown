@@ -33,6 +33,11 @@ Fundamental algorithms and data structures are mostly used **as reference** for 
 - ability to **distinguish iterative, recursive and tail-recursive** functions
 - ability to **convert recursive functions** to/from iterative ones
 
+If you're not familiar with a few or most of those topics—don't worry anyway: you can either learn some of them quickly or you can try to find such algorithms courses that **don't focus on things you don't understand** at the moment.
+
+I personally learned algorithms iteratively: the first encounter was when I had very poor math knowledge.
+From time to time I was learning all algorithms all over again, diving deeper.
+
 # Materials
 I personally prefer watching [video courses](/2016/11/29/self-learning/#algorithms-and-data-structures) **at 1.5x—2x speed**.
 
