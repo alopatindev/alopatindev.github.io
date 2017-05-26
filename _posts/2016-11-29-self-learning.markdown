@@ -10,16 +10,17 @@ Since I left my job I decided to refresh my knowledge, learn new things and make
 These are the materials I use. The most enjoyable are highlighted.
 
 ### Functional Programming
-- [x][**Functional Programming Principles in Scala (EPFL)**](https://www.coursera.org/learn/progfun1)
-- [x][Functional Program Design in Scala (EPFL)](https://www.coursera.org/learn/progfun2)
-- [x][**Functional Programming in Haskell (Denis Moskvin, Russian)**](https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75)
+- [x][**Functional Programming Principles in Scala**](https://www.coursera.org/learn/progfun1) by EPFL
+- [x][Functional Program Design in Scala](https://www.coursera.org/learn/progfun2) by EPFL
+- [x][**Functional Programming in Haskell (Russian)**](https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75) by Denis Moskvin
 
 ### Parallel Programming
-- [x][**Parallel Programming (Evgeny Kalishenko, Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT)
-- [x][Parallel Programming (EPFL, JVM, Scala)](https://www.coursera.org/learn/parprog1)
+- [x][**Parallel Programming (Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT) by Evgeny Kalishenko
+- [x][Parallel Programming (JVM, Scala)](https://www.coursera.org/learn/parprog1) by EPFL
+- [x][Rationales Behind C++ Atomics (Russian)](https://www.youtube.com/watch?v=_-3syPxgwqs) by Egor Derevenetc
 
 ### Object-Oriented Programming
-- [x][**Design Patterns (Sergey Nemchinsky, Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
+- [x][**Design Patterns (Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4) by Sergey Nemchinsky
 
 ### The Rust Programming Language
 - [x] ["The Book"](https://doc.rust-lang.org/book)
@@ -33,65 +34,65 @@ These are the materials I use. The most enjoyable are highlighted.
 - [ ][MIT 6.851 Advanced Data Structures](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 
 #### Other Materials
-- [x][Time Complexity (Russian)](https://www.youtube.com/watch?v=IsaS0NmgXlg) (from [Basic Algorithms for Middle School Students](https://www.youtube.com/watch?v=npV3mOIZJNc&list=PLDrmKwRSNx7KcHxyf9hSmF3fTLKSwujkM))
-- [x]Time Complexity (from [ITMO's Algorithms](https://openedu.ru/course/ITMOUniversity/PADS/) course, Russian) ([1](http://video-storage.openedu.ru/video/sd/0083/PADS-l3atejl24g.mp4), [2](http://video-storage.openedu.ru/video/sd/0083/PADS-007o20mha9.mp4))
-- [x][**Recurrence Relations**](https://users.cs.duke.edu/~reif/courses/alglectures/skiena.lectures/lecture3.pdf) (contains a typo on slide 7, case 1; try to find it ;))
-- [x][Bit manipulation](https://www.youtube.com/watch?v=NLKQEOgBAnw)
-- [x][Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg)
-- [x][Binary Heaps](https://www.youtube.com/watch?v=WCm3TqScBM8&list=PLSVu1-lON6Lwqj5nDqg8YyD7f4tjLMMBN)
-- [x][**Counting sort**](https://www.youtube.com/watch?v=7zuGmKfUt7s)
-- [x][Topological sort](https://www.youtube.com/watch?v=ddTC4Zovtbc)
-- [x][Kadane's Algorithm (Max Sum Subarray)](https://www.youtube.com/watch?v=86CQq3pKSUw)
-- [x][**Huffman Coding**](https://www.youtube.com/watch?v=ZdooBTdW5bM)
-- [x][Error Control and CRC](https://www.youtube.com/watch?v=LL2QpP4k_HE)
-- [x][Quick Sort](https://www.youtube.com/watch?v=3OLTJlwyIqQ), [Quicksort algorithm](https://www.youtube.com/watch?v=COk73cpQbFQ)
-- [x][Traveling Salesman Problem Visualization](https://www.youtube.com/watch?v=SC5CX8drAtU)
-- [x][Rabin Karp (substring search)](https://www.youtube.com/watch?v=H4VrKHVG5qI) (also there's a good video from [Algorithms II](https://www.coursera.org/learn/java-data-structures-algorithms-2) course)
-- [x][Wildcard Matching Dynamic Programming](https://www.youtube.com/watch?v=3ZDZ-N0EPV0)
-- [x][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do)
-- [x][Edit Distance - Dynamic Programming](https://www.youtube.com/watch?v=xFd5P9nyhTw)
-- [x][Fractional Knapsack Problem (Greedy Algorithm)](https://www.youtube.com/watch?v=_08myilrxq8)
-- [x][0/1 Knapsack Problem Dynamic Programming](https://www.youtube.com/watch?v=8LusJS5-AGo)
+- [x][Time Complexity (Russian)](https://www.youtube.com/watch?v=IsaS0NmgXlg) (from [Basic Algorithms for Middle School Students](https://www.youtube.com/watch?v=npV3mOIZJNc&list=PLDrmKwRSNx7KcHxyf9hSmF3fTLKSwujkM)) by ITMO
+- [x]Time Complexity (Russian) (from [ITMO's Algorithms](https://openedu.ru/course/ITMOUniversity/PADS/)) ([1](http://video-storage.openedu.ru/video/sd/0083/PADS-l3atejl24g.mp4), [2](http://video-storage.openedu.ru/video/sd/0083/PADS-007o20mha9.mp4))
+- [x][**Recurrence Relations**](https://users.cs.duke.edu/~reif/courses/alglectures/skiena.lectures/lecture3.pdf) by Duke University *(contains a typo on slide 7, case 1; try to find it ;))*
+- [x][Bit manipulation](https://www.youtube.com/watch?v=NLKQEOgBAnw) by Gayle Laakmann McDowell
+- [x][Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg) by Gayle Laakmann McDowell
+- [x][Binary Heaps](https://www.youtube.com/watch?v=WCm3TqScBM8&list=PLSVu1-lON6Lwqj5nDqg8YyD7f4tjLMMBN) by David Scot Taylor
+- [x][**Counting sort**](https://www.youtube.com/watch?v=7zuGmKfUt7s) by Arjun Tyagi
+- [x][Topological sort](https://www.youtube.com/watch?v=ddTC4Zovtbc) by Tushar Roy
+- [x][Kadane's Algorithm (Max Sum Subarray)](https://www.youtube.com/watch?v=86CQq3pKSUw) by CS Dojo
+- [x][**Huffman Coding**](https://www.youtube.com/watch?v=ZdooBTdW5bM) by Barry Brown
+- [x][Error Control and CRC](https://www.youtube.com/watch?v=LL2QpP4k_HE) by Ravindrababu Ravula
+- [x][Quick Sort](https://www.youtube.com/watch?v=3OLTJlwyIqQ) by Yusuf Shakeel, [Quicksort algorithm](https://www.youtube.com/watch?v=COk73cpQbFQ) by MyCodeSchool
+- [x][Traveling Salesman Problem Visualization](https://www.youtube.com/watch?v=SC5CX8drAtU) by poprhythm
+- [x][Rabin Karp (substring search)](https://www.youtube.com/watch?v=H4VrKHVG5qI) by Tushar Roy
+- [x][Wildcard Matching Dynamic Programming](https://www.youtube.com/watch?v=3ZDZ-N0EPV0) by Tushar Roy
+- [x][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do) by Art of the Problem
+- [x][Edit Distance - Dynamic Programming](https://www.youtube.com/watch?v=xFd5P9nyhTw) by CSBreakdown
+- [x][Fractional Knapsack Problem (Greedy Algorithm)](https://www.youtube.com/watch?v=_08myilrxq8) by Yusuf Shakeel
+- [x][0/1 Knapsack Problem Dynamic Programming](https://www.youtube.com/watch?v=8LusJS5-AGo) by Tushar Roy
 
 ### Mathematics
-- [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480)
+- [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480) by Silvanus Thompson
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
-- [x][Indirect Proofs (Proof by Contradiction, etc.)](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/02/Small02.pdf)
-- [x][Theoretical Computer Science Cheat Sheet](http://web.stanford.edu/~liszt90/acm/cheatsheet.pdf)
-- [x][The Correlation Coefficient - Explained in Three Steps](https://www.youtube.com/watch?v=ugd4k3dC_8Y)
-- [x][Expected Value](https://www.youtube.com/watch?v=DAjVAEDil_Q)
-- [x][Gradient](https://www.youtube.com/watch?v=tIpKfDc295M)
-- [x][Gradient and graphs](https://www.youtube.com/watch?v=_-02ze7tf08)
+- [x][Indirect Proofs (Proof by Contradiction, etc.)](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/02/Small02.pdf) by Stanford
+- [x][Theoretical Computer Science Cheat Sheet](http://web.stanford.edu/~liszt90/acm/cheatsheet.pdf) by Stanford
+- [x][The Correlation Coefficient - Explained in Three Steps](https://www.youtube.com/watch?v=ugd4k3dC_8Y) by Benedict K
+- [x][Expected Value](https://www.youtube.com/watch?v=DAjVAEDil_Q) by patrickJMT
+- [x]Gradient ([1](https://www.youtube.com/watch?v=tIpKfDc295M), [2](https://www.youtube.com/watch?v=_-02ze7tf08)) by Khan Academy
 - [ ][MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 
 ### Parsing and Compiling
 - [x][MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PL8FE88AA54363BC46) (lectures 9A—10B)
-- [ ][Let’s Build A Simple Interpreter (Ruslan Spivak)](https://ruslanspivak.com/lsbasi-part1)
+- [ ][Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1) by Ruslan Spivak
 
 ### Databases
-- [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
+- [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
+- [x][Entity Attribute Value](https://www.youtube.com/watch?v=X5Q9G3pa7I4) by SABZAL
 
 ### Data Analysis
-- [x][Big Data Analysis with Scala and Spark (EPFL)](https://www.coursera.org/learn/big-data-analysys)
-- [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic)
-- [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO))
-- [x][Support Vector Machines (SVM) by Example](https://www.youtube.com/watch?v=5zRmhOUjjGY)
-- [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU)
-- [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp)
+- [x][Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys) by EPFL
+- [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic) by Victor Lavrenko
+- [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)) by Victor Lavrenko and Nigel Goddard
+- [x][Support Vector Machines (SVM) by Example](https://www.youtube.com/watch?v=5zRmhOUjjGY) by TemelBilisim
+- [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
+- [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp) by Alice LaPlante
 
 ### English
-- [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684)
-- [x][Inside IELTS: Preparing for the Test with the Experts](https://www.futurelearn.com/courses/cambridge-english-ielts)
+- [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684) by Polina Gantman
+- [x][Inside IELTS: Preparing for the Test with the Experts](https://www.futurelearn.com/courses/cambridge-english-ielts) by FutureLearn
 
 ### Interview
-- [x][**Cracking the Coding Interview**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-- [x][Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
+- [x][**Cracking the Coding Interview**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) by Gayle Laakmann McDowell
+- [x][Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview) by University of California
 
 ### Other
-- [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- [x][Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices)
-- [x][CS75 Scalability Harvard Web Development](https://www.youtube.com/watch?v=-W9F__D3oY4)
-- [ ][Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525)
+- [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
+- [x][Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices) by University of Alberta
+- [x][CS75 Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
+- [ ][Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525) by Andrew Tanenbaum
 
 I'm also looking for good courses related to Databases and Statistics
 
