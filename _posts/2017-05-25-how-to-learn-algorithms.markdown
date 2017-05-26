@@ -78,14 +78,14 @@ Also you should **perform better in coding interviews**.
 - learning by **analyzing given (pseudo)code** (rather than visualizing examples of particular inputs using pen and paper and figuring out the algorithm by your own)
     - though many classical books, like CLRS, focus you on pseudocode by default
     - this pitfall leads to tricking your brain: it feels you understand the algorithm but you actually understand it partially; also you will likely forget the algorithm and ideas behind its design very quickly
-    - **advice: check the code only if you wasn't able to write a program by your own** or you want to improve your current solution
+    - **advice: check the code only if you weren't able to write a program by your own** or you want to improve your current solution
 - iterative design preference rather than recursive (or vice versa)
-    - thinking about problems recursively is more natural way in many cases (DFS, MergeSort, etc.)
+    - thinking about problems recursively is a more natural way in many cases (DFS, MergeSort, etc.)
     - **advice: start with recursive solution** and convert it to iterative one only after making sure your implementation is correct
 - trying to build cool-general-shiny-**reusable code from the beginning** (i.e. implementing sorting algorithm for generic types rather than integers, implementing a heap that can be used both as Min and Max heap, thinking too much about best identifier names, etc.)
     - if you do any of these then **you're actually procrastinating**
     - it's easy to lose a focus on a real problem because of the procrastination
-    - **advice: always start with very dumb naive design**
+    - **advice: always start with a very dumb naive design**
 - **not testing your code** properly
     - obvious issue: you will think your implementation is correct
     - advice:
