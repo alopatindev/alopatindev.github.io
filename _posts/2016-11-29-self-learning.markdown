@@ -53,6 +53,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Edit Distance - Dynamic Programming](https://www.youtube.com/watch?v=xFd5P9nyhTw) by CSBreakdown
 - [x][Fractional Knapsack Problem (Greedy Algorithm)](https://www.youtube.com/watch?v=_08myilrxq8) by Yusuf Shakeel
 - [x][0/1 Knapsack Problem Dynamic Programming](https://www.youtube.com/watch?v=8LusJS5-AGo) by Tushar Roy
+- [x][N Queen Problem (Backtracking)](https://www.youtube.com/watch?v=lTPIX2Ywo3U) by Yusuf Shakeel
 
 ### Mathematics
 - [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480) by Silvanus Thompson
