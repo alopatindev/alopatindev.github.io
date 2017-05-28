@@ -61,7 +61,7 @@ Three steps, it's that simple.
 
 # Expected Result
 What you really should be able to do after learning algorithms discipline (in the best case):
-- design algorithms **using popular design paradigms**: Brute Force, Divide and Conquer, Dynamic Programming, Greedy Algorithms
+- design algorithms **using popular design paradigms**: Brute Force, Divide and Conquer, Dynamic Programming, Greedy Algorithms, Backtracking
 - understand differences between asymptotic notations (O, Θ and Ω)
 - **analyze time and space complexity** using different techniques
     - for recursive algorithms: by building and solving recurrence relations (using Master Theorem, Recursion Trees + Induction, etc.)
