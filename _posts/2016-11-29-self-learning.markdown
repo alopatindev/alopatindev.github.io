@@ -54,6 +54,10 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Fractional Knapsack Problem (Greedy Algorithm)](https://www.youtube.com/watch?v=_08myilrxq8) by Yusuf Shakeel
 - [x][0/1 Knapsack Problem Dynamic Programming](https://www.youtube.com/watch?v=8LusJS5-AGo) by Tushar Roy
 - [x][N Queen Problem (Backtracking)](https://www.youtube.com/watch?v=lTPIX2Ywo3U) by Yusuf Shakeel
+- [x][Greedy Coloring Algorithm](https://www.youtube.com/watch?v=vGjsi8NIpSE) by MathAfterMath
+- [x][Graph Colouring Problem - Backtracking](https://www.youtube.com/watch?v=miCYGGrTwFU) by CSBreakdown
+- [x][Detect a loop in a linked list (Floyd's Algorithm)](https://www.youtube.com/watch?v=apIw0Opq5nk) by IDeserve
+- [x][Detect Cycle in Directed Graph Algorithm](https://www.youtube.com/watch?v=rKQaZuoUR4M) by Tushar Roy
 
 ### Mathematics
 - [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480) by Silvanus Thompson
