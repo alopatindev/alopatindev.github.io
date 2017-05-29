@@ -47,6 +47,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Error Control and CRC](https://www.youtube.com/watch?v=LL2QpP4k_HE) by Ravindrababu Ravula
 - [x][Quick Sort](https://www.youtube.com/watch?v=3OLTJlwyIqQ) by Yusuf Shakeel, [Quicksort algorithm](https://www.youtube.com/watch?v=COk73cpQbFQ) by MyCodeSchool
 - [x][Traveling Salesman Problem Visualization](https://www.youtube.com/watch?v=SC5CX8drAtU) by poprhythm
+- [x][Hamiltonian Cycle of a Graph using Backtracking](https://www.youtube.com/watch?v=naYLw94Qi6U) by IITian S. Saurabh
 - [x][Rabin Karp (substring search)](https://www.youtube.com/watch?v=H4VrKHVG5qI) by Tushar Roy
 - [x][Wildcard Matching Dynamic Programming](https://www.youtube.com/watch?v=3ZDZ-N0EPV0) by Tushar Roy
 - [x][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do) by Art of the Problem
