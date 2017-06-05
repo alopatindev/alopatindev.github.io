@@ -18,6 +18,8 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][**Parallel Programming (Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT) by Evgeny Kalishenko
 - [x][Parallel Programming (JVM, Scala)](https://www.coursera.org/learn/parprog1) by EPFL
 - [x][Rationales Behind C++ Atomics (Russian)](https://www.youtube.com/watch?v=_-3syPxgwqs) by Egor Derevenetc
+- [x][Concurrent Programming with C++11](https://www.youtube.com/playlist?list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M) by Bo Qian
+- [ ][JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google
 
 ### Object-Oriented Programming
 - [x][**Design Patterns (Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4) by Sergey Nemchinsky
@@ -35,7 +37,7 @@ These are the materials I use. The most enjoyable are highlighted.
 
 #### Other Materials
 - [x][Time Complexity (Russian)](https://www.youtube.com/watch?v=IsaS0NmgXlg) (from [Basic Algorithms for Middle School Students](https://www.youtube.com/watch?v=npV3mOIZJNc&list=PLDrmKwRSNx7KcHxyf9hSmF3fTLKSwujkM)) by ITMO
-- [x]Time Complexity (Russian) (from [ITMO's Algorithms](https://openedu.ru/course/ITMOUniversity/PADS/)) ([1](http://video-storage.openedu.ru/video/sd/0083/PADS-l3atejl24g.mp4), [2](http://video-storage.openedu.ru/video/sd/0083/PADS-007o20mha9.mp4))
+- [x]Time Complexity (Russian) ([1](http://video-storage.openedu.ru/video/sd/0083/PADS-l3atejl24g.mp4), [2](http://video-storage.openedu.ru/video/sd/0083/PADS-007o20mha9.mp4)) (from [ITMO's Algorithms](https://openedu.ru/course/ITMOUniversity/PADS/))
 - [x][**Recurrence Relations**](https://users.cs.duke.edu/~reif/courses/alglectures/skiena.lectures/lecture3.pdf) by Duke University *(contains a typo on slide 7, case 1; try to find it ;))*
 - [x][Bit manipulation](https://www.youtube.com/watch?v=NLKQEOgBAnw) by Gayle Laakmann McDowell
 - [x][Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg) by Gayle Laakmann McDowell
@@ -46,28 +48,33 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][**Huffman Coding**](https://www.youtube.com/watch?v=ZdooBTdW5bM) by Barry Brown
 - [x][Error Control and CRC](https://www.youtube.com/watch?v=LL2QpP4k_HE) by Ravindrababu Ravula
 - [x][Quick Sort](https://www.youtube.com/watch?v=3OLTJlwyIqQ) by Yusuf Shakeel, [Quicksort algorithm](https://www.youtube.com/watch?v=COk73cpQbFQ) by MyCodeSchool
-- [x][Traveling Salesman Problem Visualization](https://www.youtube.com/watch?v=SC5CX8drAtU) by poprhythm
-- [x][Hamiltonian Cycle of a Graph using Backtracking](https://www.youtube.com/watch?v=naYLw94Qi6U) by IITian S. Saurabh
 - [x][Rabin Karp (substring search)](https://www.youtube.com/watch?v=H4VrKHVG5qI) by Tushar Roy
 - [x][Wildcard Matching Dynamic Programming](https://www.youtube.com/watch?v=3ZDZ-N0EPV0) by Tushar Roy
 - [x][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do) by Art of the Problem
 - [x][Edit Distance - Dynamic Programming](https://www.youtube.com/watch?v=xFd5P9nyhTw) by CSBreakdown
-- [x][Fractional Knapsack Problem (Greedy Algorithm)](https://www.youtube.com/watch?v=_08myilrxq8) by Yusuf Shakeel
-- [x][0/1 Knapsack Problem Dynamic Programming](https://www.youtube.com/watch?v=8LusJS5-AGo) by Tushar Roy
+- [x][Convex Hull - Graham Scan](https://www.youtube.com/watch?v=0HZaRu5IupM) (from [Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms)) by Princeton University
 - [x][N Queen Problem (Backtracking)](https://www.youtube.com/watch?v=lTPIX2Ywo3U) by Yusuf Shakeel
 - [x][Greedy Coloring Algorithm](https://www.youtube.com/watch?v=vGjsi8NIpSE) by MathAfterMath
 - [x][Graph Colouring Problem - Backtracking](https://www.youtube.com/watch?v=miCYGGrTwFU) by CSBreakdown
 - [x][Detect a loop in a linked list (Floyd's Algorithm)](https://www.youtube.com/watch?v=apIw0Opq5nk) by IDeserve
 - [x][Detect Cycle in Directed Graph Algorithm](https://www.youtube.com/watch?v=rKQaZuoUR4M) by Tushar Roy
+- [x][Fractional Knapsack Problem (Greedy Algorithm)](https://www.youtube.com/watch?v=_08myilrxq8) by Yusuf Shakeel
+- [x][0/1 Knapsack Problem (Dynamic Programming)](https://www.youtube.com/watch?v=8LusJS5-AGo) by Tushar Roy
+- [x]0/1 Knapsack problem (Branch and Bound) ([1](https://www.youtube.com/watch?v=slayHO7gKEQ), [2](https://www.youtube.com/watch?v=qwC7bS_pBMs)) by Vikash Kumar
+- [x][Traveling Salesman Problem Visualization](https://www.youtube.com/watch?v=SC5CX8drAtU) by poprhythm
+- [x][Hamiltonian Cycle of a Graph using Backtracking](https://www.youtube.com/watch?v=naYLw94Qi6U) by IITian S. Saurabh
+- [x][Traveling Salesman (Branch and Bound)](https://www.youtube.com/watch?v=JQW-0d1-Ttw) by Brian Ray
 
 ### Mathematics
 - [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480) by Silvanus Thompson
-- [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
+- [x][Sketching the Derivative of a Function](https://www.youtube.com/watch?v=QoTGPUArfTI) by patrickJMT
+- [x]Gradient ([1](https://www.youtube.com/watch?v=tIpKfDc295M), [2](https://www.youtube.com/watch?v=_-02ze7tf08)) by Khan Academy
+- [ ][MIT 18.02 Multivariable Calculus](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
 - [x][Indirect Proofs (Proof by Contradiction, etc.)](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/02/Small02.pdf) by Stanford
+- [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
 - [x][Theoretical Computer Science Cheat Sheet](http://web.stanford.edu/~liszt90/acm/cheatsheet.pdf) by Stanford
 - [x][The Correlation Coefficient - Explained in Three Steps](https://www.youtube.com/watch?v=ugd4k3dC_8Y) by Benedict K
 - [x][Expected Value](https://www.youtube.com/watch?v=DAjVAEDil_Q) by patrickJMT
-- [x]Gradient ([1](https://www.youtube.com/watch?v=tIpKfDc295M), [2](https://www.youtube.com/watch?v=_-02ze7tf08)) by Khan Academy
 - [ ][MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 
 ### Parsing and Compiling
@@ -78,6 +85,11 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
 - [x][Entity Attribute Value](https://www.youtube.com/watch?v=X5Q9G3pa7I4) by SABZAL
 
+### Scalability
+- [x][CS75 Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
+- [x][HighLoad++ Junior 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_wqiZEPsRCjRsVxWQSasTnP)
+- [ ][HighLoad++ 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt)
+
 ### Data Analysis
 - [x][Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys) by EPFL
 - [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic) by Victor Lavrenko
@@ -85,6 +97,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Support Vector Machines (SVM) by Example](https://www.youtube.com/watch?v=5zRmhOUjjGY) by TemelBilisim
 - [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
 - [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp) by Alice LaPlante
+- [ ][MIT 6.034 Artificial Intelligence](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 
 ### English
 - [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684) by Polina Gantman
@@ -97,10 +110,9 @@ These are the materials I use. The most enjoyable are highlighted.
 ### Other
 - [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
 - [x][Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices) by University of Alberta
-- [x][CS75 Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
 - [ ][Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525) by Andrew Tanenbaum
 
-I'm also looking for good courses related to Databases and Statistics
+I'm also looking for good courses related to Databases and Statistics.
 
 ---
 
