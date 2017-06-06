@@ -66,16 +66,19 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Traveling Salesman (Branch and Bound)](https://www.youtube.com/watch?v=JQW-0d1-Ttw) by Brian Ray
 
 ### Mathematics
-- [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480) by Silvanus Thompson
-- [x][Sketching the Derivative of a Function](https://www.youtube.com/watch?v=QoTGPUArfTI) by patrickJMT
-- [x]Gradient ([1](https://www.youtube.com/watch?v=tIpKfDc295M), [2](https://www.youtube.com/watch?v=_-02ze7tf08)) by Khan Academy
-- [ ][MIT 18.02 Multivariable Calculus](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
-- [x][Indirect Proofs (Proof by Contradiction, etc.)](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/02/Small02.pdf) by Stanford
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
+- [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480) by Silvanus Thompson
+- [ ][MIT 18.02 Multivariable Calculus](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
+- [ ][MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
+
+#### Other Materials
+- [x][Indirect Proofs (Proof by Contradiction, etc.)](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/02/Small02.pdf) by Stanford
 - [x][Theoretical Computer Science Cheat Sheet](http://web.stanford.edu/~liszt90/acm/cheatsheet.pdf) by Stanford
 - [x][The Correlation Coefficient - Explained in Three Steps](https://www.youtube.com/watch?v=ugd4k3dC_8Y) by Benedict K
 - [x][Expected Value](https://www.youtube.com/watch?v=DAjVAEDil_Q) by patrickJMT
-- [ ][MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
+- [x][Sketching the Derivative of a Function](https://www.youtube.com/watch?v=QoTGPUArfTI) by patrickJMT
+- [x]Gradient ([1](https://www.youtube.com/watch?v=tIpKfDc295M), [2](https://www.youtube.com/watch?v=_-02ze7tf08)) by Khan Academy
+- [x][Vector and Parametric Equations of a Line (Line in 3 dimensions)](https://www.youtube.com/watch?v=PyPp4QvQY3Q) (from [Introduction to Multivariable Calculus (Calc 3)](https://www.youtube.com/watch?v=oDzOKruKfKs&list=PLQ5YRQFsUCPuP9cyS7_YP_QCWQYd515Gp)) by rootmath
 
 ### Parsing and Compiling
 - [x][MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PL8FE88AA54363BC46) (lectures 9A—10B)
