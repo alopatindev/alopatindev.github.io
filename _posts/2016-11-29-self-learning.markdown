@@ -69,8 +69,8 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
 - [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480) by Silvanus Thompson
 - [x][**MIT 18.02 Multivariable Calculus**](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
-- [x][Probability](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19) by Khan Academy
-- [ ][MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
+- [ ]Probability Courses ([1](https://www.youtube.com/playlist?list=PLLssT5z_DsK_WYzNXVjT695FdxRxvlSF8), [2](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19), [3](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2))
+- [x][**MIT 6.042J Mathematics for Computer Science**](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 
 #### Other Materials
 - [x][Indirect Proofs (Proof by Contradiction, etc.)](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/02/Small02.pdf) by Stanford
