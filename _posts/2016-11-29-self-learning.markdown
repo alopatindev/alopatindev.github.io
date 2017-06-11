@@ -79,8 +79,10 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Vector and Parametric Equations of a Line (Line in 3 dimensions)](https://www.youtube.com/watch?v=PyPp4QvQY3Q) (from [Introduction to Multivariable Calculus (Calc 3)](https://www.youtube.com/watch?v=oDzOKruKfKs&list=PLQ5YRQFsUCPuP9cyS7_YP_QCWQYd515Gp)) by rootmath
 - [x]Gradient ([1](https://www.youtube.com/watch?v=tIpKfDc295M), [2](https://www.youtube.com/watch?v=_-02ze7tf08)) by Khan Academy
 - [x]Lagrange multipliers ([1](https://www.youtube.com/watch?v=yuqB-d5MjZA), [2](https://www.youtube.com/watch?v=aep6lwPqm6I), [3](https://www.youtube.com/watch?v=hQ4UNu1P2kw), [4](https://www.youtube.com/watch?v=m-G3K2GPmEQ)) (from [Multivariable calculus](https://www.youtube.com/watch?v=hQ4UNu1P2kw&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)) by Khan Academy
-- [x][The Correlation Coefficient - Explained in Three Steps](https://www.youtube.com/watch?v=ugd4k3dC_8Y) by Benedict K
 - [x][Expected Value](https://www.youtube.com/watch?v=DAjVAEDil_Q) by patrickJMT
+- [x][The Correlation Coefficient - Explained in Three Steps](https://www.youtube.com/watch?v=ugd4k3dC_8Y) by Benedict K
+- [x][Marginal distribution and conditional distribution](https://www.youtube.com/watch?v=CAXQvTKP8sg) by Khan Academy
+- [x][The Law of Iterated Expectations: an introduction](https://www.youtube.com/watch?v=Ki2HpTCPwhM) by Ben Lambert
 
 ### Parsing and Compiling
 - [x][MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PL8FE88AA54363BC46) (lectures 9A—10B)
