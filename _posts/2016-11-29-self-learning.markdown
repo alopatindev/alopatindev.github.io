@@ -33,7 +33,7 @@ These are the materials I use. The most enjoyable are highlighted.
 ### Algorithms and Data Structures
 - [x][**MIT 6.006 Introduction to Algorithms**](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [x][MIT 6.046J Design and Analysis of Algorithms](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-- [ ][MIT 6.851 Advanced Data Structures](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+- [x][MIT 6.851 Advanced Data Structures](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 
 #### Other Materials
 - [x][Time Complexity (Russian)](https://www.youtube.com/watch?v=IsaS0NmgXlg) (from [Basic Algorithms for Middle School Students](https://www.youtube.com/watch?v=npV3mOIZJNc&list=PLDrmKwRSNx7KcHxyf9hSmF3fTLKSwujkM)) by ITMO
