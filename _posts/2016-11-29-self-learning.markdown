@@ -31,17 +31,17 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x] [New Rustacean Podcast](http://www.newrustacean.com/show_notes/index.html)
 
 ### Algorithms and Data Structures
-- [x][**MIT 6.006 Introduction to Algorithms**](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-- [x][MIT 6.046J Design and Analysis of Algorithms](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-- [x][MIT 6.851 Advanced Data Structures](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+- [x][**Introduction to Algorithms**](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) by MIT
+- [x][Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) by MIT
+- [x][Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) by MIT
 
 #### Other Materials
-- [x][Time Complexity (Russian)](https://www.youtube.com/watch?v=IsaS0NmgXlg) (from [Basic Algorithms for Middle School Students](https://www.youtube.com/watch?v=npV3mOIZJNc&list=PLDrmKwRSNx7KcHxyf9hSmF3fTLKSwujkM)) by ITMO
+- [x][Time Complexity (Russian)](https://www.youtube.com/watch?v=IsaS0NmgXlg) (from [Basic Algorithms for Middle School Students](https://www.youtube.com/playlist?list=PLDrmKwRSNx7KcHxyf9hSmF3fTLKSwujkM)) by ITMO
 - [x]Time Complexity (Russian) ([1](http://video-storage.openedu.ru/video/sd/0083/PADS-l3atejl24g.mp4), [2](http://video-storage.openedu.ru/video/sd/0083/PADS-007o20mha9.mp4)) (from [ITMO's Algorithms](https://openedu.ru/course/ITMOUniversity/PADS/))
 - [x][**Recurrence Relations**](https://users.cs.duke.edu/~reif/courses/alglectures/skiena.lectures/lecture3.pdf) by Duke University *(contains a typo on slide 7, case 1; try to find it ;))*
 - [x][Bit manipulation](https://www.youtube.com/watch?v=NLKQEOgBAnw) by Gayle Laakmann McDowell
 - [x][Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg) by Gayle Laakmann McDowell
-- [x][Binary Heaps](https://www.youtube.com/watch?v=WCm3TqScBM8&list=PLSVu1-lON6Lwqj5nDqg8YyD7f4tjLMMBN) by David Scot Taylor
+- [x][Binary Heaps](https://www.youtube.com/playlist?list=PLSVu1-lON6Lwqj5nDqg8YyD7f4tjLMMBN) by David Scot Taylor
 - [x][**Counting sort**](https://www.youtube.com/watch?v=7zuGmKfUt7s) by Arjun Tyagi
 - [x][Topological sort](https://www.youtube.com/watch?v=ddTC4Zovtbc) by Tushar Roy
 - [x][Kadane's Algorithm (Max Sum Subarray)](https://www.youtube.com/watch?v=86CQq3pKSUw) by CS Dojo
@@ -68,25 +68,25 @@ These are the materials I use. The most enjoyable are highlighted.
 ### Mathematics
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
 - [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480) by Silvanus Thompson
-- [x][**MIT 18.02 Multivariable Calculus**](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
-- [ ]Probability Courses ([1](https://www.youtube.com/playlist?list=PLLssT5z_DsK_WYzNXVjT695FdxRxvlSF8), [2](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19), [3](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2))
-- [x][**MIT 6.042J Mathematics for Computer Science**](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
+- [x][**Multivariable Calculus**](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) by MIT
+- [x]Probability and Statistics Courses ([1](https://www.youtube.com/playlist?list=PLLssT5z_DsK_WYzNXVjT695FdxRxvlSF8), [2](https://www.youtube.com/playlist?list=PLC58778F28211FA19), [3](https://www.youtube.com/playlist?list=PL1328115D3D8A2566), [4](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2), [5](https://www.youtube.com/playlist?list=PLLZJnRRqNP6fowumBRW3IYS7odqNkXFQT), [6](https://www.youtube.com/playlist?list=PLD01983098F7E77B7))
+- [x][**Mathematics for Computer Science**](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) by MIT
 
 #### Other Materials
 - [x][Indirect Proofs (Proof by Contradiction, etc.)](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/02/Small02.pdf) by Stanford
 - [x][Theoretical Computer Science Cheat Sheet](http://web.stanford.edu/~liszt90/acm/cheatsheet.pdf) by Stanford
 - [x][Sketching the Derivative of a Function](https://www.youtube.com/watch?v=QoTGPUArfTI) by patrickJMT
-- [x][Vector and Parametric Equations of a Line (Line in 3 dimensions)](https://www.youtube.com/watch?v=PyPp4QvQY3Q) (from [Introduction to Multivariable Calculus (Calc 3)](https://www.youtube.com/watch?v=oDzOKruKfKs&list=PLQ5YRQFsUCPuP9cyS7_YP_QCWQYd515Gp)) by rootmath
+- [x][Vector and Parametric Equations of a Line (Line in 3 dimensions)](https://www.youtube.com/watch?v=PyPp4QvQY3Q) (from [Introduction to Multivariable Calculus (Calc 3)](https://www.youtube.com/playlist?list=PLQ5YRQFsUCPuP9cyS7_YP_QCWQYd515Gp)) by rootmath
 - [x]Gradient ([1](https://www.youtube.com/watch?v=tIpKfDc295M), [2](https://www.youtube.com/watch?v=_-02ze7tf08)) by Khan Academy
-- [x]Lagrange multipliers ([1](https://www.youtube.com/watch?v=yuqB-d5MjZA), [2](https://www.youtube.com/watch?v=aep6lwPqm6I), [3](https://www.youtube.com/watch?v=hQ4UNu1P2kw), [4](https://www.youtube.com/watch?v=m-G3K2GPmEQ)) (from [Multivariable calculus](https://www.youtube.com/watch?v=hQ4UNu1P2kw&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)) by Khan Academy
+- [x]Lagrange multipliers ([1](https://www.youtube.com/watch?v=yuqB-d5MjZA), [2](https://www.youtube.com/watch?v=aep6lwPqm6I), [3](https://www.youtube.com/watch?v=hQ4UNu1P2kw), [4](https://www.youtube.com/watch?v=m-G3K2GPmEQ)) (from [Multivariable calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)) by Khan Academy
 - [x][Expected Value](https://www.youtube.com/watch?v=DAjVAEDil_Q) by patrickJMT
 - [x][The Correlation Coefficient - Explained in Three Steps](https://www.youtube.com/watch?v=ugd4k3dC_8Y) by Benedict K
 - [x][Marginal distribution and conditional distribution](https://www.youtube.com/watch?v=CAXQvTKP8sg) by Khan Academy
 - [x][The Law of Iterated Expectations: an introduction](https://www.youtube.com/watch?v=Ki2HpTCPwhM) by Ben Lambert
-
-### Parsing and Compiling
-- [x][MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PL8FE88AA54363BC46) (lectures 9A—10B)
-- [ ][Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1) by Ruslan Spivak
+- [x][The Bayesian Trap](https://www.youtube.com/watch?v=R13BD8qKeTg) by Veritasium
+- [x]Confidence Intervals ([1](https://www.youtube.com/watch?v=tFWsuO9f74o), [2](https://www.youtube.com/watch?v=s4SRdaTycaw)) by Statistics Learning Centre
+- [x][Chi-squared Test](https://www.youtube.com/watch?v=WXPBoFDqNVk) by Paul Andersen
+- [x][How to Determine the Statistical Significance of an A/B Test](https://www.youtube.com/watch?v=AuQXipyv520) by Michael Aagaard
 
 ### Databases
 - [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
@@ -100,11 +100,11 @@ These are the materials I use. The most enjoyable are highlighted.
 ### Data Analysis
 - [x][Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys) by EPFL
 - [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic) by Victor Lavrenko
-- [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)) by Victor Lavrenko and Nigel Goddard
+- [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/playlist?list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)) by Victor Lavrenko and Nigel Goddard
 - [x][Support Vector Machines (SVM) by Example](https://www.youtube.com/watch?v=5zRmhOUjjGY) by TemelBilisim
 - [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
 - [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp) by Alice LaPlante
-- [ ][MIT 6.034 Artificial Intelligence](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+- [ ][Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by MIT
 
 ### English
 - [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684) by Polina Gantman
@@ -117,7 +117,7 @@ These are the materials I use. The most enjoyable are highlighted.
 ### Other
 - [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
 - [x][Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices) by University of Alberta
-- [ ][Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525) by Andrew Tanenbaum
+- [x][Structure and Interpretation of Computer Programs](https://www.youtube.com/playlist?list=PL8FE88AA54363BC46) (lectures 9A—10B) by MIT
 
 I'm also looking for good courses related to Databases and Statistics.
 
