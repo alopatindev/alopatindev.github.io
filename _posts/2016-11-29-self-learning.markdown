@@ -25,10 +25,10 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][**Design Patterns (Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4) by Sergey Nemchinsky
 
 ### The Rust Programming Language
-- [x] ["The Book"](https://doc.rust-lang.org/book)
-- [x] [Rust by Example](http://rustbyexample.com)
-- [x] [**Learning Rust With Entirely Too Many Linked Lists**](http://cglab.ca/~abeinges/blah/too-many-lists/book)
-- [x] [New Rustacean Podcast](http://www.newrustacean.com/show_notes/index.html)
+- [x]["The Book"](https://doc.rust-lang.org/book)
+- [x][Rust by Example](http://rustbyexample.com)
+- [x][**Learning Rust With Entirely Too Many Linked Lists**](http://cglab.ca/~abeinges/blah/too-many-lists/book)
+- [x][New Rustacean Podcast](http://www.newrustacean.com/show_notes/index.html)
 
 ### Algorithms and Data Structures
 - [x][**Introduction to Algorithms**](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) by MIT
@@ -73,9 +73,9 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][**Mathematics for Computer Science**](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) by MIT
 
 #### Other Materials
-- [x][Indirect Proofs (Proof by Contradiction, etc.)](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/02/Small02.pdf) by Stanford
+- [x][**Indirect Proofs**](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/02/Small02.pdf) by Stanford
 - [x][Theoretical Computer Science Cheat Sheet](http://web.stanford.edu/~liszt90/acm/cheatsheet.pdf) by Stanford
-- [x][Sketching the Derivative of a Function](https://www.youtube.com/watch?v=QoTGPUArfTI) by patrickJMT
+- [x][**Sketching the Derivative of a Function**](https://www.youtube.com/watch?v=QoTGPUArfTI) by patrickJMT
 - [x][Vector and Parametric Equations of a Line (Line in 3 dimensions)](https://www.youtube.com/watch?v=PyPp4QvQY3Q) (from [Introduction to Multivariable Calculus (Calc 3)](https://www.youtube.com/playlist?list=PLQ5YRQFsUCPuP9cyS7_YP_QCWQYd515Gp)) by rootmath
 - [x]Gradient ([1](https://www.youtube.com/watch?v=tIpKfDc295M), [2](https://www.youtube.com/watch?v=_-02ze7tf08)) by Khan Academy
 - [x]Lagrange multipliers ([1](https://www.youtube.com/watch?v=yuqB-d5MjZA), [2](https://www.youtube.com/watch?v=aep6lwPqm6I), [3](https://www.youtube.com/watch?v=hQ4UNu1P2kw), [4](https://www.youtube.com/watch?v=m-G3K2GPmEQ)) (from [Multivariable calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)) by Khan Academy
@@ -87,24 +87,27 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x]Confidence Intervals ([1](https://www.youtube.com/watch?v=tFWsuO9f74o), [2](https://www.youtube.com/watch?v=s4SRdaTycaw)) by Statistics Learning Centre
 - [x][Chi-squared Test](https://www.youtube.com/watch?v=WXPBoFDqNVk) by Paul Andersen
 - [x][How to Determine the Statistical Significance of an A/B Test](https://www.youtube.com/watch?v=AuQXipyv520) by Michael Aagaard
+- [x][**Finite Math: Introduction to Markov Chains**](https://www.youtube.com/watch?v=tYaW-1kzTZI&index=24&list=PLIeGtxpvyG-KxMqY8wJ0KoY3ujxf0C856) by Brandon Foltz
 
 ### Databases
 - [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
 - [x][Entity Attribute Value](https://www.youtube.com/watch?v=X5Q9G3pa7I4) by SABZAL
 
 ### Scalability
-- [x][CS75 Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
+- [x][**CS75 Scalability**](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
 - [x][HighLoad++ Junior 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_wqiZEPsRCjRsVxWQSasTnP)
 - [ ][HighLoad++ 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt)
 
 ### Data Analysis
 - [x][Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys) by EPFL
+- [ ][Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by MIT
+
+#### Other Materials
 - [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic) by Victor Lavrenko
 - [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/playlist?list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)) by Victor Lavrenko and Nigel Goddard
 - [x][Support Vector Machines (SVM) by Example](https://www.youtube.com/watch?v=5zRmhOUjjGY) by TemelBilisim
 - [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
 - [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp) by Alice LaPlante
-- [ ][Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by MIT
 
 ### English
 - [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684) by Polina Gantman
