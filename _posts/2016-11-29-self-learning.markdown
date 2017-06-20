@@ -19,7 +19,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Parallel Programming (JVM, Scala)](https://www.coursera.org/learn/parprog1) by EPFL
 - [x][Rationales Behind C++ Atomics (Russian)](https://www.youtube.com/watch?v=_-3syPxgwqs) by Egor Derevenetc
 - [x][Concurrent Programming with C++11](https://www.youtube.com/playlist?list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M) by Bo Qian
-- [ ][JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google
+- [x][JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google
 
 ### Object-Oriented Programming
 - [x][**Design Patterns (Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4) by Sergey Nemchinsky
@@ -88,10 +88,12 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Chi-squared Test](https://www.youtube.com/watch?v=WXPBoFDqNVk) by Paul Andersen
 - [x][How to Determine the Statistical Significance of an A/B Test](https://www.youtube.com/watch?v=AuQXipyv520) by Michael Aagaard
 - [x][**Finite Math: Introduction to Markov Chains**](https://www.youtube.com/watch?v=tYaW-1kzTZI&index=24&list=PLIeGtxpvyG-KxMqY8wJ0KoY3ujxf0C856) by Brandon Foltz
+- [x][Finite Math: Markov Chain Example - The Gambler's Ruin](https://www.youtube.com/watch?v=afIhgiHVnj0) by Brandon Foltz
 
 ### Databases
 - [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
 - [x][Entity Attribute Value](https://www.youtube.com/watch?v=X5Q9G3pa7I4) by SABZAL
+- [x]PostgreSQL Tutorials ([1](https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x), [2](https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2)) by Programming Guru
 
 ### Scalability
 - [x][**CS75 Scalability**](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
