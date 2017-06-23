@@ -120,7 +120,7 @@ I figured out what I should **avoid**:
 
 - Enterprise Development (classical Java EE and Finance-related stuff)
 - Game Development
-- Data Analysis/Science (there's a possibility I will change my mind after some learning)
+- <s>Data Analysis/Science (there's a possibility I will change my mind after some learning)</s> I changed my mind, it's actually awesome!
 
 Summarizing, for me the **perfect match** would be:
 
