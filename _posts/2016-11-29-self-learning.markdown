@@ -94,6 +94,7 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
 - [x][Entity Attribute Value](https://www.youtube.com/watch?v=X5Q9G3pa7I4) by SABZAL
 - [x]PostgreSQL Tutorials ([1](https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x), [2](https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2)) by Programming Guru
+- [x][Cassandra Tutorials](https://www.youtube.com/playlist?list=PL3E5AC388940EEC0A) by DataStax
 
 ### Scalability
 - [x][**CS75 Scalability**](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
