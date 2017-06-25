@@ -6,6 +6,13 @@ permalink: /projects/
 
 ## Open Source
 
+#### [Scalafmt Server](https://github.com/alopatindev/scalafmt-server)
+HTTP server to format Scala code for text editors
+<div class="tags">
+  <span class="tag">Scala</span>
+  <span class="tag">Play Framework</span>
+</div>
+
 #### [Find Telegram Bot](https://github.com/alopatindev/find-telegram-bot)
 A Telegram Bot for finding other Telegram Bots
 <div class="tags">
@@ -56,7 +63,6 @@ Crossplatform (GNU/Linux, OS X, Windows) log viewer for Android, iOS and text fi
   <span class="tag">Scala</span>
   <span class="tag">ReactiveX</span>
   <span class="tag">OpenGL ES</span>
-  <span class="tag">sbt</span>
   <span class="tag">Android</span>
 </div>
 Android + Scala + OpenGL ES experiment: Camera Visual Effects Generator
@@ -64,7 +70,6 @@ Android + Scala + OpenGL ES experiment: Camera Visual Effects Generator
 #### [MNO-Tracker](https://github.com/mnotracker/mnotracker)
 <div class="tags">
   <span class="tag">Scala</span>
-  <span class="tag">sbt</span>
   <span class="tag">Python</span>
   <span class="tag">Java</span>
   <span class="tag">Android</span>
