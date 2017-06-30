@@ -103,7 +103,7 @@ These are the materials I use. The most enjoyable are highlighted.
 
 ### Data Analysis
 - [x][Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys) by EPFL
-- [ ][Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by MIT
+- [x][**Artificial Intelligence**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by MIT
 
 #### Other Materials
 - [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic) by Victor Lavrenko
@@ -111,6 +111,9 @@ These are the materials I use. The most enjoyable are highlighted.
 - [x][Support Vector Machines (SVM) by Example](https://www.youtube.com/watch?v=5zRmhOUjjGY) by TemelBilisim
 - [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
 - [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp) by Alice LaPlante
+- [x][**Which Activation Function Should I Use?**](https://www.youtube.com/watch?v=-7scQpJT7uo) by Siraj Raval
+- [x][What is a Genetic Algorithm](https://www.youtube.com/watch?v=1i8muvzZkPw) by MATLAB
+- [x][Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) by Georgia Tech
 
 ### English
 - [x][Easy Way to Technical Writing](https://stepik.org/course/Easy-way-to-technical-writing-684) by Polina Gantman
