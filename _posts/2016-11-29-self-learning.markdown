@@ -74,15 +74,18 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][**Big Data Analysis with Scala and Spark**](https://www.coursera.org/learn/big-data-analysys) by EPFL
 
 #### Other Materials
-- [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic) by Victor Lavrenko
-- [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/playlist?list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)) by Victor Lavrenko and Nigel Goddard
-- [x][Support Vector Machines (SVM) by Example](https://www.youtube.com/watch?v=5zRmhOUjjGY) by TemelBilisim
-- [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
 - [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp) by Alice LaPlante
-- [x][**Which Activation Function Should I Use?**](https://www.youtube.com/watch?v=-7scQpJT7uo) by Siraj Raval
-- [x][What is a Genetic Algorithm](https://www.youtube.com/watch?v=1i8muvzZkPw) by MATLAB
-- [x][Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) by Georgia Tech
+- [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic) by Victor Lavrenko
 - [x][K nearest neighbor (kNN): how it works](https://www.youtube.com/watch?v=k_7gMp5wh5A) by Victor Lavrenko
+- [x][What is a Genetic Algorithm](https://www.youtube.com/watch?v=1i8muvzZkPw) by MATLAB
+- [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/playlist?list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)) by Victor Lavrenko and Nigel Goddard
+- [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
+- [x][Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) by Georgia Tech
+- [x]Support Vector Machines (SVM) ([1](https://www.youtube.com/watch?v=5zRmhOUjjGY), [2](https://www.youtube.com/watch?v=g8D5YL6cOSE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D))
+- [x][How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0) by Brandon Rohrer
+- [x]Convolutional Neural Networks ([1](https://www.youtube.com/watch?v=C_zFhWdM4ic), [2](https://www.youtube.com/watch?v=py5byOOHZM8), [3](https://www.youtube.com/watch?v=FmpDIaiMIeA))
+- [x][**Which Activation Function Should I Use?**](https://www.youtube.com/watch?v=-7scQpJT7uo) by Siraj Raval
+- [x][**Second Order Optimization**](https://www.youtube.com/watch?v=UIFMLK2nj_w&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&t=3m34s) by Siraj Raval
 
 ### Databases
 - [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
