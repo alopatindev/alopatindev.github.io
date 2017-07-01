@@ -80,10 +80,12 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][What is a Genetic Algorithm](https://www.youtube.com/watch?v=1i8muvzZkPw) by MATLAB
 - [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/playlist?list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)) by Victor Lavrenko and Nigel Goddard
 - [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
+- [x][**The Evolution of Gradient Descent**](https://www.youtube.com/watch?v=nhqo0u1a6fw) by Siraj Raval
 - [x][Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) by Georgia Tech
 - [x]Support Vector Machines (SVM) ([1](https://www.youtube.com/watch?v=5zRmhOUjjGY), [2](https://www.youtube.com/watch?v=g8D5YL6cOSE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D))
-- [x][How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0) by Brandon Rohrer
+- [x]Neural Networks ([1](https://www.youtube.com/watch?v=ILsA4nyG7I0), [2](https://www.youtube.com/watch?v=h3l4qz76JhQ))
 - [x]Convolutional Neural Networks ([1](https://www.youtube.com/watch?v=C_zFhWdM4ic), [2](https://www.youtube.com/watch?v=py5byOOHZM8), [3](https://www.youtube.com/watch?v=FmpDIaiMIeA))
+- [x][Backpropagation in 5 Minutes](https://www.youtube.com/watch?v=q555kfIFUCM) by Siraj Raval
 - [x][**Which Activation Function Should I Use?**](https://www.youtube.com/watch?v=-7scQpJT7uo) by Siraj Raval
 - [x][**Second Order Optimization**](https://www.youtube.com/watch?v=UIFMLK2nj_w&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&t=3m34s) by Siraj Raval
 
