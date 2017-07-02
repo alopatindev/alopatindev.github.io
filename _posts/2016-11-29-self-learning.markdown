@@ -82,12 +82,14 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
 - [x][**The Evolution of Gradient Descent**](https://www.youtube.com/watch?v=nhqo0u1a6fw) by Siraj Raval
 - [x][Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) by Georgia Tech
-- [x]Support Vector Machines (SVM) ([1](https://www.youtube.com/watch?v=5zRmhOUjjGY), [2](https://www.youtube.com/watch?v=g8D5YL6cOSE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D))
+- [x]Support Vector Machines (SVM) ([1](https://www.youtube.com/watch?v=5zRmhOUjjGY), [2](https://www.youtube.com/watch?v=g8D5YL6cOSE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D), [3](https://www.youtube.com/watch?v=SSu00IRRraY&t=4m20s))
 - [x]Neural Networks ([1](https://www.youtube.com/watch?v=ILsA4nyG7I0), [2](https://www.youtube.com/watch?v=h3l4qz76JhQ))
 - [x]Convolutional Neural Networks ([1](https://www.youtube.com/watch?v=C_zFhWdM4ic), [2](https://www.youtube.com/watch?v=py5byOOHZM8), [3](https://www.youtube.com/watch?v=FmpDIaiMIeA))
 - [x][Backpropagation in 5 Minutes](https://www.youtube.com/watch?v=q555kfIFUCM) by Siraj Raval
 - [x][**Which Activation Function Should I Use?**](https://www.youtube.com/watch?v=-7scQpJT7uo) by Siraj Raval
 - [x][**Second Order Optimization**](https://www.youtube.com/watch?v=UIFMLK2nj_w&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&t=3m34s) by Siraj Raval
+- [x][The Best Way to Prepare a Dataset Easily](https://www.youtube.com/watch?v=0xVqLJe9_CY) by Siraj Raval
+- [x]Dimensionality Reduction ([1](https://www.youtube.com/watch?v=yLdOS6xyM_Q), [2](https://www.youtube.com/watch?v=yQsOFWqpjkE&t=4m54s))
 
 ### Databases
 - [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
