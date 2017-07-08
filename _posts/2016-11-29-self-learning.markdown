@@ -5,9 +5,44 @@ date: 2016-11-29 01:46:00 +0300
 categories: mooc courses learning computer science algorithms math ai ml
 ---
 
-Since I left my job I decided to do full-time study to refresh my current knowledge, learn new things and make some fun with pet projects.
+Since I left my job I decided to do **full-time study** to **refresh** my knowledge, **learn new** things and make some fun with **pet projects**.
 
 These are the materials I use (the most enjoyable are highlighted):
+
+### Data Analysis and Machine Learning
+- [x][**Artificial Intelligence**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by MIT
+- [x][**Big Data Analysis with Scala and Spark**](https://www.coursera.org/learn/big-data-analysys) by EPFL
+- [ ][Enterprise Analytics with Apache Spark](https://academy.datastax.com/resources/getting-started-apache-spark) by DataStax
+
+#### Other Materials
+- [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp) by Alice LaPlante
+- [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic) by Victor Lavrenko
+- [x][K nearest neighbor (kNN): how it works](https://www.youtube.com/watch?v=k_7gMp5wh5A) by Victor Lavrenko
+- [x][What is a Genetic Algorithm](https://www.youtube.com/watch?v=1i8muvzZkPw) by MATLAB
+- [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/playlist?list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)) by Victor Lavrenko and Nigel Goddard
+- [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
+- [x][**The Evolution of Gradient Descent**](https://www.youtube.com/watch?v=nhqo0u1a6fw) by Siraj Raval
+- [x][Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) by Georgia Tech
+- [x]Support Vector Machines (SVM) ([1](https://www.youtube.com/watch?v=5zRmhOUjjGY), [2](https://www.youtube.com/watch?v=g8D5YL6cOSE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D), [3](https://www.youtube.com/watch?v=SSu00IRRraY&t=4m20s))
+- [x]**Neural Networks ([1](https://www.youtube.com/watch?v=ILsA4nyG7I0), [2](https://www.youtube.com/watch?v=h3l4qz76JhQ))**
+- [x]Convolutional Neural Networks ([1](https://www.youtube.com/watch?v=C_zFhWdM4ic), [2](https://www.youtube.com/watch?v=py5byOOHZM8), [3](https://www.youtube.com/watch?v=FmpDIaiMIeA))
+- [x][Backpropagation in 5 Minutes](https://www.youtube.com/watch?v=q555kfIFUCM) by Siraj Raval
+- [x][**Which Activation Function Should I Use?**](https://www.youtube.com/watch?v=-7scQpJT7uo) by Siraj Raval
+- [x][**Second Order Optimization**](https://www.youtube.com/watch?v=UIFMLK2nj_w&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&t=3m34s) by Siraj Raval
+- [x][The Best Way to Prepare a Dataset Easily](https://www.youtube.com/watch?v=0xVqLJe9_CY) by Siraj Raval
+- [x]Dimensionality Reduction ([1](https://www.youtube.com/watch?v=yLdOS6xyM_Q), [2](https://www.youtube.com/watch?v=yQsOFWqpjkE&t=4m54s), [3](https://www.youtube.com/watch?v=_UVHneBUBW0))
+- [x][Naïve Bayes](https://www.coursera.org/learn/big-data-machine-learning/lecture/RxaqT/naive-bayes) by University of California, San Diego
+
+### Databases
+- [x][MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
+- [x]PostgreSQL Tutorials ([1](https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x), [2](https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2)) by Programming Guru
+- [x][Entity Attribute Value](https://www.youtube.com/watch?v=X5Q9G3pa7I4) by SABZAL
+
+#### Apache Cassandra
+- [x][Cassandra Tutorials](https://www.youtube.com/playlist?list=PL3E5AC388940EEC0A) by DataStax
+- [x][**Data Modeling**](https://academy.datastax.com/resources/ds220-data-modeling) by DataStax
+- [x][A Look at the CQL Changes in 3.x](https://www.youtube.com/watch?v=hcbSVj-7lF0) by DataStax
+- [ ][spark-cassandra-connector/doc](https://github.com/datastax/spark-cassandra-connector/tree/master/doc) by DataStax
 
 ### Mathematics
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
@@ -69,46 +104,12 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][Hamiltonian Cycle of a Graph using Backtracking](https://www.youtube.com/watch?v=naYLw94Qi6U) by IITian S. Saurabh
 - [x][Traveling Salesman (Branch and Bound)](https://www.youtube.com/watch?v=JQW-0d1-Ttw) by Brian Ray
 
-### Data Analysis and Machine Learning
-- [x][**Artificial Intelligence**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by MIT
-- [x][**Big Data Analysis with Scala and Spark**](https://www.coursera.org/learn/big-data-analysys) by EPFL
-- [ ][Enterprise Analytics with Apache Spark](https://academy.datastax.com/resources/getting-started-apache-spark) by DataStax
-
-#### Other Materials
-- [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp) by Alice LaPlante
-- [x][K-means clustering: how it works](https://www.youtube.com/watch?v=_aWzGGNrcic) by Victor Lavrenko
-- [x][K nearest neighbor (kNN): how it works](https://www.youtube.com/watch?v=k_7gMp5wh5A) by Victor Lavrenko
-- [x][What is a Genetic Algorithm](https://www.youtube.com/watch?v=1i8muvzZkPw) by MATLAB
-- [x][Decision Tree 1: how it works](https://www.youtube.com/watch?v=eKD5gxPPeY0) (from [Decision Tree](https://www.youtube.com/playlist?list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO)) by Victor Lavrenko and Nigel Goddard
-- [x][Gradient Descent - Artificial Intelligence for Robotics](https://www.youtube.com/watch?v=umAeJ7LMCfU) by Udacity
-- [x][**The Evolution of Gradient Descent**](https://www.youtube.com/watch?v=nhqo0u1a6fw) by Siraj Raval
-- [x][Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) by Georgia Tech
-- [x]Support Vector Machines (SVM) ([1](https://www.youtube.com/watch?v=5zRmhOUjjGY), [2](https://www.youtube.com/watch?v=g8D5YL6cOSE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D), [3](https://www.youtube.com/watch?v=SSu00IRRraY&t=4m20s))
-- [x]Neural Networks ([1](https://www.youtube.com/watch?v=ILsA4nyG7I0), [2](https://www.youtube.com/watch?v=h3l4qz76JhQ))
-- [x]Convolutional Neural Networks ([1](https://www.youtube.com/watch?v=C_zFhWdM4ic), [2](https://www.youtube.com/watch?v=py5byOOHZM8), [3](https://www.youtube.com/watch?v=FmpDIaiMIeA))
-- [x][Backpropagation in 5 Minutes](https://www.youtube.com/watch?v=q555kfIFUCM) by Siraj Raval
-- [x][**Which Activation Function Should I Use?**](https://www.youtube.com/watch?v=-7scQpJT7uo) by Siraj Raval
-- [x][**Second Order Optimization**](https://www.youtube.com/watch?v=UIFMLK2nj_w&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&t=3m34s) by Siraj Raval
-- [x][The Best Way to Prepare a Dataset Easily](https://www.youtube.com/watch?v=0xVqLJe9_CY) by Siraj Raval
-- [x]Dimensionality Reduction ([1](https://www.youtube.com/watch?v=yLdOS6xyM_Q), [2](https://www.youtube.com/watch?v=yQsOFWqpjkE&t=4m54s), [3](https://www.youtube.com/watch?v=_UVHneBUBW0))
-- [x][Naïve Bayes](https://www.coursera.org/learn/big-data-machine-learning/lecture/RxaqT/naive-bayes) by University of California, San Diego
-
-### Databases
-- [x][MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
-- [x]PostgreSQL Tutorials ([1](https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x), [2](https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2)) by Programming Guru
-- [x][Entity Attribute Value](https://www.youtube.com/watch?v=X5Q9G3pa7I4) by SABZAL
-
-#### Cassandra
-- [x][Cassandra Tutorials](https://www.youtube.com/playlist?list=PL3E5AC388940EEC0A) by DataStax
-- [x][**Data Modeling**](https://academy.datastax.com/resources/ds220-data-modeling) by DataStax
-- [x][A Look at the CQL Changes in 3.x](https://www.youtube.com/watch?v=hcbSVj-7lF0) by DataStax
-- [ ][spark-cassandra-connector/doc](https://github.com/datastax/spark-cassandra-connector/tree/master/doc) by DataStax
-
 ### Software Design
 - [x][**Functional Programming Principles in Scala**](https://www.coursera.org/learn/progfun1) by EPFL
 - [x][Functional Program Design in Scala](https://www.coursera.org/learn/progfun2) by EPFL
 - [x][**Functional Programming in Haskell (Russian)**](https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75) by Denis Moskvin
 - [x][**Design Patterns (Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4) by Sergey Nemchinsky
+- [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
 
 #### System Design and Scalability
 - [x][**CS75 Scalability**](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
@@ -137,6 +138,5 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview) by University of California
 
 ### Other
-- [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
 - [x][Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices) by University of Alberta
 - [x][Structure and Interpretation of Computer Programs](https://www.youtube.com/playlist?list=PL8FE88AA54363BC46) (lectures 9A—10B) by MIT
