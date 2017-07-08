@@ -72,6 +72,7 @@ These are the materials I use (the most enjoyable are highlighted):
 ### Data Analysis and Machine Learning
 - [x][**Artificial Intelligence**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by MIT
 - [x][**Big Data Analysis with Scala and Spark**](https://www.coursera.org/learn/big-data-analysys) by EPFL
+- [ ][Enterprise Analytics with Apache Spark](https://academy.datastax.com/resources/getting-started-apache-spark) by DataStax
 
 #### Other Materials
 - [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp) by Alice LaPlante
@@ -89,13 +90,19 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][**Which Activation Function Should I Use?**](https://www.youtube.com/watch?v=-7scQpJT7uo) by Siraj Raval
 - [x][**Second Order Optimization**](https://www.youtube.com/watch?v=UIFMLK2nj_w&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&t=3m34s) by Siraj Raval
 - [x][The Best Way to Prepare a Dataset Easily](https://www.youtube.com/watch?v=0xVqLJe9_CY) by Siraj Raval
-- [x]Dimensionality Reduction ([1](https://www.youtube.com/watch?v=yLdOS6xyM_Q), [2](https://www.youtube.com/watch?v=yQsOFWqpjkE&t=4m54s))
+- [x]Dimensionality Reduction ([1](https://www.youtube.com/watch?v=yLdOS6xyM_Q), [2](https://www.youtube.com/watch?v=yQsOFWqpjkE&t=4m54s), [3](https://www.youtube.com/watch?v=_UVHneBUBW0))
+- [x][Naïve Bayes](https://www.coursera.org/learn/big-data-machine-learning/lecture/RxaqT/naive-bayes) by University of California, San Diego
 
 ### Databases
-- [x][M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
-- [x][Entity Attribute Value](https://www.youtube.com/watch?v=X5Q9G3pa7I4) by SABZAL
+- [x][MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
 - [x]PostgreSQL Tutorials ([1](https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x), [2](https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2)) by Programming Guru
+- [x][Entity Attribute Value](https://www.youtube.com/watch?v=X5Q9G3pa7I4) by SABZAL
+
+#### Cassandra
 - [x][Cassandra Tutorials](https://www.youtube.com/playlist?list=PL3E5AC388940EEC0A) by DataStax
+- [x][**Data Modeling**](https://academy.datastax.com/resources/ds220-data-modeling) by DataStax
+- [x][A Look at the CQL Changes in 3.x](https://www.youtube.com/watch?v=hcbSVj-7lF0) by DataStax
+- [ ][spark-cassandra-connector/doc](https://github.com/datastax/spark-cassandra-connector/tree/master/doc) by DataStax
 
 ### Software Design
 - [x][**Functional Programming Principles in Scala**](https://www.coursera.org/learn/progfun1) by EPFL
