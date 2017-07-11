@@ -11,8 +11,8 @@ These are the materials I use (the most enjoyable are highlighted):
 
 ### Data Analysis and Machine Learning
 - [x][**Artificial Intelligence**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by MIT
-- [x][**Big Data Analysis with Scala and Spark**](https://www.coursera.org/learn/big-data-analysys) by EPFL
-- [ ][Enterprise Analytics with Apache Spark](https://academy.datastax.com/resources/getting-started-apache-spark) by DataStax
+- [x][Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys) by EPFL
+- [x][**Enterprise Analytics with Apache Spark**](https://academy.datastax.com/resources/getting-started-apache-spark) by DataStax
 
 #### Other Materials
 - [x][Analyzing Data in the Internet of Things](http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp) by Alice LaPlante
@@ -114,7 +114,7 @@ These are the materials I use (the most enjoyable are highlighted):
 #### System Design and Scalability
 - [x][**CS75 Scalability**](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
 - [x][HighLoad++ Junior 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_wqiZEPsRCjRsVxWQSasTnP)
-- [ ][HighLoad++ 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt)
+- [ ][HighLoad++ 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt) (some videos)
 
 ### Parallel Programming
 - [x][**Parallel Programming (Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT) by Evgeny Kalishenko
