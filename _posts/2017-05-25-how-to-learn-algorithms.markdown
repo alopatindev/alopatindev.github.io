@@ -23,7 +23,7 @@ Fundamental algorithms and data structures are mostly used **as reference** for 
 - **basic math** skills
     - basic discrete math understanding
         - familiarity with **graphs terminology**
-        - perfect **binary tree properties** (particularly relations between height, number of nodes and number of leaves)
+        - **perfect binary tree properties** (particularly relations between height, number of nodes and number of leaves)
         - basics of **combinatorics and probability** theory would be handy too
     - basic calculus (**limits** and **sums**)
     - **theorems proving** techniques (by contradiction and induction)
