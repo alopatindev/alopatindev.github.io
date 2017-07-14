@@ -114,7 +114,7 @@ These are the materials I use (the most enjoyable are highlighted):
 #### System Design and Scalability
 - [x][**CS75 Scalability**](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
 - [x][HighLoad++ Junior 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_wqiZEPsRCjRsVxWQSasTnP)
-- [ ][HighLoad++ 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt) (some videos)
+- [x][**HighLoad++ 2016 (Russian)**](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt) (some videos)
 
 ### Parallel Programming
 - [x][**Parallel Programming (Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT) by Evgeny Kalishenko
