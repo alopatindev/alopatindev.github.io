@@ -107,12 +107,14 @@ These are the materials I use (the most enjoyable are highlighted):
 ### Software Design
 - [x][**Functional Programming Principles in Scala**](https://www.coursera.org/learn/progfun1) by EPFL
 - [x][Functional Program Design in Scala](https://www.coursera.org/learn/progfun2) by EPFL
+- [x][**Functional Programming in Scala Capstone**](Functional Programming in Scala Capstone) by EPFL
 - [x][**Functional Programming in Haskell (Russian)**](https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75) by Denis Moskvin
 - [x][**Design Patterns (Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4) by Sergey Nemchinsky
 - [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
 
 #### System Design and Scalability
 - [x][**CS75 Scalability**](https://www.youtube.com/watch?v=-W9F__D3oY4) by Harvard
+- [x][**System Design**](https://www.interviewbit.com/courses/system-design) by InterviewBit
 - [x][HighLoad++ Junior 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_wqiZEPsRCjRsVxWQSasTnP)
 - [x][**HighLoad++ 2016 (Russian)**](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt) (some videos)
 
@@ -122,6 +124,7 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][Rationales Behind C++ Atomics (Russian)](https://www.youtube.com/watch?v=_-3syPxgwqs) by Egor Derevenetc
 - [x][Concurrent Programming with C++11](https://www.youtube.com/playlist?list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M) by Bo Qian
 - [x][JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google
+- [ ][SPTCC 2017](http://neerc.ifmo.ru/sptcc/courses.html) by ITMO, MIT, EPFL and others
 
 ### The Rust Programming Language
 - [x]["The Book"](https://doc.rust-lang.org/book)
