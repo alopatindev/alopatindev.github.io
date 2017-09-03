@@ -42,7 +42,7 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][Cassandra Tutorials](https://www.youtube.com/playlist?list=PL3E5AC388940EEC0A) by DataStax
 - [x][**Data Modeling**](https://academy.datastax.com/resources/ds220-data-modeling) by DataStax
 - [x][A Look at the CQL Changes in 3.x](https://www.youtube.com/watch?v=hcbSVj-7lF0) by DataStax
-- [ ][spark-cassandra-connector/doc](https://github.com/datastax/spark-cassandra-connector/tree/master/doc) by DataStax
+- [x][spark-cassandra-connector/doc](https://github.com/datastax/spark-cassandra-connector/tree/master/doc) by DataStax
 
 ### Mathematics
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
@@ -77,6 +77,7 @@ These are the materials I use (the most enjoyable are highlighted):
 #### Other Materials
 - [x][Time Complexity (Russian)](https://www.youtube.com/watch?v=IsaS0NmgXlg) (from [Basic Algorithms for Middle School Students](https://www.youtube.com/playlist?list=PLDrmKwRSNx7KcHxyf9hSmF3fTLKSwujkM)) by ITMO
 - [x]Time Complexity (Russian) ([1](http://video-storage.openedu.ru/video/sd/0083/PADS-l3atejl24g.mp4), [2](http://video-storage.openedu.ru/video/sd/0083/PADS-007o20mha9.mp4)) (from [ITMO's Algorithms](https://openedu.ru/course/ITMOUniversity/PADS/))
+- [x][Intro To Complexity Theory (Russian)](https://www.youtube.com/watch?v=KqDey-zRl6M) by Dmitry Meleshko
 - [x][**Recurrence Relations**](https://users.cs.duke.edu/~reif/courses/alglectures/skiena.lectures/lecture3.pdf) by Duke University *(contains a typo on slide 7, case 1; try to find it ;))*
 - [x][Bit manipulation](https://www.youtube.com/watch?v=NLKQEOgBAnw) by Gayle Laakmann McDowell
 - [x][Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg) by Gayle Laakmann McDowell
@@ -89,7 +90,6 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][Quick Sort](https://www.youtube.com/watch?v=3OLTJlwyIqQ) by Yusuf Shakeel, [Quicksort algorithm](https://www.youtube.com/watch?v=COk73cpQbFQ) by MyCodeSchool
 - [x][Rabin Karp (substring search)](https://www.youtube.com/watch?v=H4VrKHVG5qI) by Tushar Roy
 - [x][Wildcard Matching Dynamic Programming](https://www.youtube.com/watch?v=3ZDZ-N0EPV0) by Tushar Roy
-- [x][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do) by Art of the Problem
 - [x][Edit Distance - Dynamic Programming](https://www.youtube.com/watch?v=xFd5P9nyhTw) by CSBreakdown
 - [x][Convex Hull - Graham Scan](https://www.youtube.com/watch?v=0HZaRu5IupM) (from [Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms)) by Princeton University
 - [x][N Queen Problem (Backtracking)](https://www.youtube.com/watch?v=lTPIX2Ywo3U) by Yusuf Shakeel
@@ -104,6 +104,11 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][Hamiltonian Cycle of a Graph using Backtracking](https://www.youtube.com/watch?v=naYLw94Qi6U) by IITian S. Saurabh
 - [x][Traveling Salesman (Branch and Bound)](https://www.youtube.com/watch?v=JQW-0d1-Ttw) by Brian Ray
 
+### Cryptography
+- [x][**Diffie-Hellman Key Exchange**](https://www.youtube.com/watch?v=YEBfamv-_do) by Art of the Problem
+- [x][Elliptic Curve Cryptography Overview](https://www.youtube.com/watch?v=dCvB-mhkT0w) by John Wagnon
+- [x][Elliptic Curve Diffie Hellman](https://www.youtube.com/watch?v=F3zzNa42-tQ) by Robert Pierce
+
 ### Software Design
 - [x][**Functional Programming Principles in Scala**](https://www.coursera.org/learn/progfun1) by EPFL
 - [x][Functional Program Design in Scala](https://www.coursera.org/learn/progfun2) by EPFL
@@ -117,6 +122,8 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][**System Design**](https://www.interviewbit.com/courses/system-design) by InterviewBit
 - [x][HighLoad++ Junior 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_wqiZEPsRCjRsVxWQSasTnP)
 - [x][**HighLoad++ 2016 (Russian)**](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt) (some videos)
+- [ ][Berlin Buzzwords 2017](https://www.youtube.com/playlist?list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt)
+- [ ][Berlin Buzzwords 2016](https://www.youtube.com/playlist?list=PLq-odUc2x7i_-qsarQo7MNsrYz3rlXGMu)
 
 ### Parallel Programming
 - [x][**Parallel Programming (Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT) by Evgeny Kalishenko
@@ -143,3 +150,4 @@ These are the materials I use (the most enjoyable are highlighted):
 ### Other
 - [x][Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices) by University of Alberta
 - [x][Structure and Interpretation of Computer Programs](https://www.youtube.com/playlist?list=PL8FE88AA54363BC46) (lectures 9A—10B) by MIT
+- [ ][97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/index.html)
