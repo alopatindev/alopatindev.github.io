@@ -150,4 +150,4 @@ These are the materials I use (the most enjoyable are highlighted):
 ### Other
 - [x][Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices) by University of Alberta
 - [x][Structure and Interpretation of Computer Programs](https://www.youtube.com/playlist?list=PL8FE88AA54363BC46) (lectures 9A—10B) by MIT
-- [ ][97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/index.html)
+- [x][97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/index.html)
