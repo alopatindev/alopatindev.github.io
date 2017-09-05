@@ -131,7 +131,7 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][Rationales Behind C++ Atomics (Russian)](https://www.youtube.com/watch?v=_-3syPxgwqs) by Egor Derevenetc
 - [x][Concurrent Programming with C++11](https://www.youtube.com/playlist?list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M) by Bo Qian
 - [x][JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google
-- [ ][SPTCC 2017](http://neerc.ifmo.ru/sptcc/courses.html) by ITMO, MIT, EPFL and others
+- [x][SPTCC 2017](http://neerc.ifmo.ru/sptcc/courses.html) by ITMO, MIT, EPFL and others
 
 ### The Rust Programming Language
 - [x]["The Book"](https://doc.rust-lang.org/book)
