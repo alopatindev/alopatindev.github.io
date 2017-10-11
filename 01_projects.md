@@ -7,7 +7,7 @@ permalink: /projects/
 ## Open Source
 
 #### [Scalafmt Server](https://github.com/alopatindev/scalafmt-server)
-HTTP server to format Scala code for text editors
+Scala formatter server for text editors
 <div class="tags">
   <span class="tag">Scala</span>
   <span class="tag">Play Framework</span>
