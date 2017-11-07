@@ -37,6 +37,7 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) by MongoDB University
 - [x]PostgreSQL Tutorials ([1](https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x), [2](https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2)) by Programming Guru
 - [x][Entity Attribute Value](https://www.youtube.com/watch?v=X5Q9G3pa7I4) by SABZAL
+- [x][SQL Antipatterns Strike Back](https://www.slideshare.net/billkarwin/sql-antipatterns-strike-back) by Bill Karwin
 
 #### Apache Cassandra
 - [x][Cassandra Tutorials](https://www.youtube.com/playlist?list=PL3E5AC388940EEC0A) by DataStax
@@ -122,7 +123,7 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][**System Design**](https://www.interviewbit.com/courses/system-design) by InterviewBit
 - [x][HighLoad++ Junior 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_wqiZEPsRCjRsVxWQSasTnP)
 - [x][**HighLoad++ 2016 (Russian)**](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt) (some videos)
-- [ ][Berlin Buzzwords 2017](https://www.youtube.com/playlist?list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt)
+- [x][Berlin Buzzwords 2017](https://www.youtube.com/playlist?list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt) (some videos)
 - [ ][Berlin Buzzwords 2016](https://www.youtube.com/playlist?list=PLq-odUc2x7i_-qsarQo7MNsrYz3rlXGMu)
 
 ### Parallel Programming
