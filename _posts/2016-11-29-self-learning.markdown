@@ -48,6 +48,7 @@ These are the materials I use (the most enjoyable are highlighted):
 ### Mathematics
 - [x]Lambda Calculus ([1](https://www.youtube.com/watch?v=S_WzF6BHadc), [2](https://www.youtube.com/watch?v=bEnFk_FBi3E), [3](https://www.youtube.com/watch?v=v1IlyzxP6Sg), [4](https://www.youtube.com/watch?v=Mg1pxUKeWCk), [5](https://www.youtube.com/watch?v=3h0-p4SDHig))
 - [x][**Calculus Made Easy**](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480) by Silvanus Thompson
+- [x][Single Variable Calculus](https://www.youtube.com/playlist?list=PL39017AD85AC0EA05) by MIT
 - [x][**Multivariable Calculus**](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) by MIT
 - [x]Probability and Statistics Courses ([1](https://www.youtube.com/playlist?list=PLLssT5z_DsK_WYzNXVjT695FdxRxvlSF8), [2](https://www.youtube.com/playlist?list=PLC58778F28211FA19), [3](https://www.youtube.com/playlist?list=PL1328115D3D8A2566), [4](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2), [5](https://www.youtube.com/playlist?list=PLLZJnRRqNP6fowumBRW3IYS7odqNkXFQT), [6](https://www.youtube.com/playlist?list=PLD01983098F7E77B7))
 - [x][**Mathematics for Computer Science**](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) by MIT
@@ -115,6 +116,7 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][Functional Program Design in Scala](https://www.coursera.org/learn/progfun2) by EPFL
 - [x][**Functional Programming in Scala Capstone**](Functional Programming in Scala Capstone) by EPFL
 - [x][**Functional Programming in Haskell (Russian)**](https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75) by Denis Moskvin
+- [ ][Introduction to programming with dependent types in Scala](https://stepik.org/course/2294) by Dmytro Mitin
 - [x][**Design Patterns (Russian)**](https://www.youtube.com/playlist?list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4) by Sergey Nemchinsky
 - [x][**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
 
@@ -124,7 +126,7 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][HighLoad++ Junior 2016 (Russian)](https://www.youtube.com/playlist?list=PLH-XmS0lSi_wqiZEPsRCjRsVxWQSasTnP)
 - [x][**HighLoad++ 2016 (Russian)**](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt) (some videos)
 - [x][Berlin Buzzwords 2017](https://www.youtube.com/playlist?list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt) (some videos)
-- [ ][Berlin Buzzwords 2016](https://www.youtube.com/playlist?list=PLq-odUc2x7i_-qsarQo7MNsrYz3rlXGMu)
+- [x][**Event Sourcing, Distributed Systems & CQRS**](https://www.youtube.com/playlist?list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ) by Sebastian Daschner
 
 ### Parallel Programming
 - [x][**Parallel Programming (Russian)**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQCPeKTcVBHJns_JOxrc_fT) by Evgeny Kalishenko
