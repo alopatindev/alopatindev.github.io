@@ -6,6 +6,16 @@ permalink: /projects/
 
 ## Open Source
 
+#### [GitRate](https://github.com/alopatindev/gitrate)
+A search engine that ranks developers' code quality
+<div class="tags">
+  <span class="tag">Scala</span>
+  <span class="tag">Apache Spark</span>
+  <span class="tag">Play Framework</span>
+  <span class="tag">Slick</span>
+  <span class="tag">PostgreSQL</span>
+</div>
+
 #### [Scalafmt Server](https://github.com/alopatindev/scalafmt-server)
 Scala formatter server for text editors
 <div class="tags">
