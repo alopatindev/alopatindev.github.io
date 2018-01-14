@@ -63,7 +63,7 @@ Use Occam's razor: **reduce your notes several times** without losing the origin
   <source src="/pictures/how-to-take-notes-like-a-programmer/refactoring.mp4" type="video/mp4">
 </video>
 
-Keep studying other sources and do updates **to corresponding notes**:
+Keep studying other sources and update **corresponding notes**:
 add new information
 and **clarify** the old one.
 
@@ -165,11 +165,11 @@ Just improve it every time you run into this issue.
 
 If it feels hard for you or too time-consuming—use something similar to "the rule of three":
 if you've been looking for this particular note **two times** in the wrong place—**leave it untouched**.
-On the **third** time—**refactor**.
+For the **third** time—**refactor**.
 
 ### What's the Point?
 You may say I didn't convince you that investing extra time in writing quality notes isn't important at all:
-doing that way is **too boring**, or it's **not applicable** to area of your work/study.
+doing that way is **too boring**, or it's **not applicable** to an area of your work/study.
 This might be true, might be not.
 
 Remember the time you've been doing a creative work, being ["in the zone"](https://en.wikipedia.org/wiki/Flow_(psychology)).
