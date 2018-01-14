@@ -86,6 +86,8 @@ These are the materials I use (the most enjoyable are highlighted):
 - [x][Binary Heaps](https://www.youtube.com/playlist?list=PLSVu1-lON6Lwqj5nDqg8YyD7f4tjLMMBN) by David Scot Taylor
 - [x][**Counting sort**](https://www.youtube.com/watch?v=7zuGmKfUt7s) by Arjun Tyagi
 - [x][Topological sort](https://www.youtube.com/watch?v=ddTC4Zovtbc) by Tushar Roy
+- [x][Lowest Common Ancestor Binary Search Tree](https://www.youtube.com/watch?v=TIoCCStdiFo) by Tushar Roy
+- [x][Lowest Common Ancestor Binary Tree](https://www.youtube.com/watch?v=13m9ZCB8gjw) by Tushar Roy
 - [x][Kadane's Algorithm (Max Sum Subarray)](https://www.youtube.com/watch?v=86CQq3pKSUw) by CS Dojo
 - [x][**Huffman Coding**](https://www.youtube.com/watch?v=ZdooBTdW5bM) by Barry Brown
 - [x][Error Control and CRC](https://www.youtube.com/watch?v=LL2QpP4k_HE) by Ravindrababu Ravula
