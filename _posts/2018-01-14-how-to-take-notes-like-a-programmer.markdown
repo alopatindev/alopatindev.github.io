@@ -35,7 +35,7 @@ from [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-lear
 or from [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/) book.
 
 ### Make It Easier to Read
-We, software developers, believe in code quality.
+We, software developers, are very serious about code quality.
 We don't like when [**code smells**](https://en.wikipedia.org/wiki/Code_smell#Common_code_smells).
 
 We communicate with code and **invest extra time** and energy **in writing** elegant code,
@@ -46,7 +46,7 @@ I found this approach useful for personal notes as well:
 you can **optimize notes for effective lookups and reads** by applying extra effort in writing.
 
 #### Raw Draft
-Right down the **title** and **sources** (books, articles, papers, videos, whatever you use)
+Right down a **title** and **sources** (books, articles, papers, videos, whatever you use)
 in a particular chunk of information.
 Start analysis of the first source, add some **key points** during the analysis.
 
@@ -168,7 +168,7 @@ if you've been looking for this particular note **two times** in the wrong place
 For the **third** time—**refactor**.
 
 ### What's the Point?
-You may say I didn't convince you that investing extra time in writing quality notes isn't important at all:
+You may say I didn't convince you that investing extra time in writing quality notes is so important:
 doing that way is **too boring**, or it's **not applicable** to an area of your work/study.
 This might be true, might be not.
 
@@ -210,7 +210,7 @@ Anyway it's just a strategy: that's true it **could** be inapplicable for some a
         - [x] Fix **typos**
         - [x] Add **keywords** (sometimes **misspelled** keywords)
         - [x] **Wrong place**?—**Move** a section/file into a proper place
-        - [x] Place is **ambiguous**?—Add **a link** from other places
+        - [x] Place is **ambiguous**?—**Add links** from other places
     - [x] **Can't understand**?—**Refactor** again
 
 It's not that hard, right?
