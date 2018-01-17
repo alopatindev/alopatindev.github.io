@@ -91,8 +91,8 @@ Find the **corresponding note**, add a **source** and keep doing your current wo
 TODO comments are [considered as antipattern](http://wiki.c2.com/?TodoCommentsConsideredHarmful) by some developers,
 though I still find them useful for personal projects and notes.
 
-You **don't have to finish** your research in the future review,
-it's just a sign there's something you don't know well
+You **don't have to continue** your research in the future note review,
+TODO comment is just a sign there's something you don't know well
 and you might would like to improve knowledge in a particular area, **if you encounter it** in practice.
 
 ### Review and Improve
@@ -137,7 +137,7 @@ Possible solution is to **add misspelled** words as **keywords** so next time yo
 
 ![](/pictures/how-to-take-notes-like-a-programmer/keyword-quantil.png)
 
-Another approach could be a use of some tricky fuzzy search engine.
+Another approach could be a use of some tricky **fuzzy search** engine.
 
 #### Update Structure According to Your Mind Image
 Suppose you ain't able to find your note quickly, **even manually**. Possible reasons:
