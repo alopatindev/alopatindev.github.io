@@ -150,7 +150,7 @@ Suppose you ain't able to find your note quickly, **even manually**. Possible re
     - where would you put notes about Big-O notation: into Calculus or Algorithms?
 
 How to fix it?
-- **move** a section or a file into a proper place
+- **move** a section or a file to a proper place
 - **add a link** from one note to another
 
 ![](/pictures/how-to-take-notes-like-a-programmer/reference-code.png)
@@ -159,7 +159,10 @@ How to fix it?
 
 #### Refactor Again
 Suppose you've found what you've been looking for
-but your **brain struggles to understand** something you've written in the past—just simplify it once again.
+but your **brain struggles to understand** something you've written in the past—just **simplify** it once again.
+
+Another typical issue is finding **several notes** that actually should be **a single one**.
+Just **merge** such fragments together and put in a proper place.
 
 #### Find a Balance
 How to not overdo this?
@@ -213,8 +216,9 @@ Anyway it's just a strategy: that's true it **could** be inapplicable for some a
     - [x] **Can't find** a note quickly?
         - [x] Fix **typos**
         - [x] Add **keywords** (sometimes **misspelled** keywords)
-        - [x] **Wrong place**?—**Move** a section/file into a proper place
+        - [x] **Wrong place**?—**Move** a section/file to a proper place
         - [x] Place is **ambiguous**?—**Add links** from other places
     - [x] **Can't understand**?—**Refactor** again
+    - [x] Did you find **duplicates/fragments** of a single note in several places?—**Merge** them
 
 It's not that hard, right?
