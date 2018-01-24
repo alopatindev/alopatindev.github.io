@@ -139,7 +139,7 @@ Possible solution is to **add misspelled** words as **keywords** so next time yo
 
 Another approach could be a use of some tricky **fuzzy search** engine.
 
-**UPD**: Actually the problem was my confusion about
+**UPDATE**: Actually the problem was my confusion about
 the [terminology](https://en.wikipedia.org/wiki/Quantile#Specialized_quantiles).
 So in *this* case the right solution is to add «quantile» keyword.
 
@@ -219,6 +219,8 @@ Anyway it's just a strategy: that's true it **could** be inapplicable for some a
         - [x] **Wrong place**?—**Move** a section/file to a proper place
         - [x] Place is **ambiguous**?—**Add links** from other places
     - [x] **Can't understand**?—**Refactor** again
-    - [x] Did you find **duplicates/fragments** of a single note in several places?—**Merge** them
+    - [x] **Duplicates/fragments** of a single note in several places?—**Merge** them
 
 It's not that hard, right?
+
+**UPDATE:** This post is also available in [Russian](https://habrahabr.ru/post/346876/) on Habrahabr.
