@@ -59,7 +59,7 @@ So far, so good.
 **Outline** key words, **split** long sentences, use **more complex bullet hierarchy**, add **subtitles**.
 Use Occam's razor: **reduce your notes several times** without losing the original meaning.
 
-<video autoplay="" loop="" width="100%" playsinline="" onclick="this.play()">
+<video autoplay="" controls="controls" loop="" width="100%" playsinline="" onclick="this.play()">
   <source src="/pictures/how-to-take-notes-like-a-programmer/refactoring.mp4" type="video/mp4">
 </video>
 
@@ -69,7 +69,7 @@ and **clarify** the old one.
 
 As the note becomes bigger—**separate it into files** or even **a directory structure**:
 
-<video autoplay="" loop="" width="100%" playsinline="" onclick="this.play()">
+<video autoplay="" controls="controls" loop="" width="100%" playsinline="" onclick="this.play()">
   <source src="/pictures/how-to-take-notes-like-a-programmer/navigation.mp4" type="video/mp4">
 </video>
 
