@@ -223,4 +223,6 @@ Anyway it's just a strategy: that's true it **could** be inapplicable for some a
 
 It's not that hard, right?
 
-**UPDATE:** This post is also available in [Russian](https://habrahabr.ru/post/346876/) on Habrahabr.
+**UPDATE 1:** This post is also available in [Russian](https://habrahabr.ru/post/346876/) on Habrahabr.
+
+**UPDATE 2:** Instead of **`git grep` + copy-paste + find on page**, I now use **[ngp](https://github.com/jonathanklee/ngp#demo) + [script](https://github.com/alopatindev/dotfiles/blob/caabfb381d369b63ef62557ff128cd4283cc80d4/common/home/.bin/ngp-view.rb)** (+ change in [ngprc](https://github.com/alopatindev/dotfiles/blob/caabfb381d369b63ef62557ff128cd4283cc80d4/common/home/.config/ngp/ngprc#L16)) that opens Jupyter files in browser and even **navigates to a particular anchor**. Unfortunately this project doesn't support [Unicode](https://github.com/jonathanklee/ngp/issues/37), but there's a workaround for that.
