@@ -6,6 +6,17 @@ permalink: /projects/
 
 ## Open Source
 
+#### [sync-audio-tracks](https://github.com/alopatindev/sync-audio-tracks)
+Audio tracks synchronization command-line tool for video editors that don't support it (like Kdenlive, etc.)
+<div class="tags">
+  <span class="tag">C++</span>
+  <span class="tag">libsndfile</span>
+  <span class="tag">fftw</span>
+  <span class="tag">bash</span>
+  <span class="tag">ffmpeg</span>
+  <span class="tag">sox</span>
+</div>
+
 #### [GitRate](https://github.com/alopatindev/gitrate)
 A search engine that ranks developers' code quality
 <div class="tags">
