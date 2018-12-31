@@ -4,7 +4,19 @@ title: Projects
 permalink: /projects/
 ---
 
-## Open Source
+## Personal Projects
+
+#### [codonaft.com](https://codonaft.com)
+Russian blog + [**vlog about programming**](https://www.youtube.com/channel/UCjNAnQpPQydNLTHcVz0s44A)
+for novice developers.
+It's focused on strategies for programmers, who are about to start or
+just started their career in Software Engineering
+<div class="tags">
+  <span class="tag">YouTube</span>
+  <span class="tag">Jekyll</span>
+</div>
+
+### Open Source
 
 #### [sync-audio-tracks](https://github.com/alopatindev/sync-audio-tracks)
 Audio tracks synchronization command-line tool for video editors that don't support it (like Kdenlive, etc.)
@@ -126,7 +138,7 @@ My first full Android + Java development and [release experience](https://play.g
 Font viewer with character table.
 One of my first C++/Qt projects
 
-## Commercial Projects
+## Participation in Commercial Projects
 
 #### [SimCity BuildIt](http://www.ea.com/simcity-buildit)
 <div class="tags">
