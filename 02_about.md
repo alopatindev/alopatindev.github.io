@@ -8,6 +8,6 @@ permalink: /about/
 
 Hi, I'm **Alexander Lopatin**
 
-- **Software Engineer** with various technical interest
-- used to work at **EA Games**
-- right now mostly into **Server Side** technologies
+- Software Engineer with various technical interest
+- used to work at Electronic Arts
+- into Free and Open Source Software
