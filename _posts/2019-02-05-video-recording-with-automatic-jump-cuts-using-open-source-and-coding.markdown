@@ -6,7 +6,7 @@ categories: pitivi ruby video sound DIY gnu linux
 ---
 
 Russian-speaking software developers always have something to share: some unique experiences and opinions.
-But only few us make vlogs for that, because video recording is very challenging.
+But only few of us make vlogs for that, because video recording is very challenging.
 
 Today I want to talk about my challenge of video recording and editing
 using <abbr title="Free and Open Source Software">FOSS</abbr>,
@@ -18,8 +18,8 @@ and some <abbr title="Do It Yourself">DIY</abbr>.
 ### Theory
 YouTube helped me to start learning theory about vlogs recording.
 I also found a free Russian [course](https://universarium.org/course/733) helpful
-(specifically the module about vlogs making and a video about types of camera shots from the module about reporting).
-Brief review of popular proprietary video editors' features
+(specifically the module about making vlogs and a video about types of camera shots from the module about reporting).
+A brief review of popular proprietary video editors' features
 helped me choose FOSS video editor more consciously.
 
 I didn't take a risk to invest in lighting: no time to learn to find an optimal solution.
@@ -44,8 +44,8 @@ Eventually I figured out that systemd is [no longer needed](https://flatpak.org/
 What about PulseAudio? — <s>I had to install and configure it</s>
 it was easier to
 [modify Flatpak](https://github.com/alopatindev/gentoo-overlay-alopatindev/blob/8f9809869c2877089d1884d483d73c938249bdc5/sys-apps/flatpak/files/flatpak-alsa.patch) instead.
-But it'd be better to install PulseAudio, it's just a bit boring and it's not clear
-will it cause issues with sound recording on my hardware or not.
+Though it'd be better to install PulseAudio, it's just a bit boring and it's not clear
+if it will cause issues with sound recording on my hardware or not.
 
 Let's install Pitivi, remove PulseAudio's configs, and run it:
 ```bash
@@ -153,10 +153,10 @@ clip [transitions](https://gl-transitions.com/gallery) helpful.
 ### Video Recording
 I decided to use front camera of my Meizu MX4 to record videos with Open Camera.
 
-It took time to train myself to look into camera and control my position,
-to not make a typical mistake like cutting part of my head.
+It took time to train myself to look into the camera and control my position,
+to not make a typical mistake like cutting off part of my head.
 I also needed to talk clear and loud enough, gesticulate and generate at least some facial expressions.
-But it was just a beginning.
+But it was just the beginning.
 
 Why did I decide to make automatic jump cuts right on the video recording step?
 1. Poor Pitivi's UI responsiveness and bugs during video editing, especially when using
@@ -302,12 +302,12 @@ I used a mic [Boya BY-M1](https://amzn.to/2t39mQt).
 Even though it's advertised as omnidirectional mic,
 for me it gave the best quality when I used it as unidirectional.
 
-It was even simpler to make a mic stand: just take some glass bottle,
+It was even simpler to make a mic stand: just take a glass bottle,
 duct tape and assemble this construction set:
 
 ![](/pictures/video-recording-with-automatic-jump-cuts-using-open-source-and-coding/mic-stand.jpg)
 
-Also towel can be put under this construction to decrease vibrations from table and to adjust height.
+A towel can also be put under this construction to decrease vibrations from table and to adjust height.
 
 #### Sound Card
 It's [ASUS Xonar U3](https://amzn.to/2MNFdhf) in my case.
@@ -323,7 +323,7 @@ in the right channel.
 Which is not a big deal because I record in mono.
 I also made a [redirection](https://github.com/alopatindev/dotfiles/blob/7f51f6a4b8ca96b2de88dd16d866ae6d54f78348/lenlap/etc/asound.conf#L57-L67) of good channel to the bad one, for software that doesn't support recording in mono.
 
-This card also hates overheating. Keep it away from cooler or else it will record sound with random lags.
+This card also hates overheating. Keep it away from the cooler or else it will record sound with random lags.
 
 #### Sound Editing
 I use headphones (Pioneer SE-M390 in my case) with a higher volume than the one I normally listen to music with.
@@ -339,7 +339,7 @@ To avoid this issue — just apply the stretches/squeezes: `ffmpeg -async 1 -i i
 6. Align and amplify volume of the voice track. One of the classical ways to do that is: Normalize, Amplify, Limiter and Normalize again, but I haven't been yet able to get a good sound quality that way. <s>Temporarily I do the next thing: set Gain to the track the way the most loud part doesn't overload and then amplify particular fragments manually.</s> **Update**: another powerful method is RMS Normalize, Limiter and an ordinary Normalize. Here's the [settings](https://wiki.audacityteam.org/wiki/Audiobook_Mastering#Process) for RMS Normalize and Limiter. Though I didn't have any use for it because I'm migrating to a new mic ([Zoom H1n](https://amzn.to/2t1AMq3)) with embedded Limiter, which seems to work great for me (so with a new mic, I will likely use ordinary Normalize only, instead of all of these things).
 7. Sometimes mic records strange clicking sounds. They can be removed with "Spectral edit multi tool" effect. I usually apply it multiple times for a selected area, with Ctrl+R. **Update**: I figured out that these clicking sounds is not a mic issue, it's something external instead. Most likely it's a combination of [mouth noise](https://www.gravyforthebrain.com/secrets-preventing-mouth-clicks/) and some other room noises.
 8. Export from Audacity to FLAC and combine everything to a single file: `ffmpeg -i sound.flac -an -i video.mp4 -c copy output.mkv`
-9. At least the first video I tested on various sound volumes and devices.
+9. It was important to test at least the first video on various sound volumes and devices.
 
 ### Result
 If you are Russian speaker
