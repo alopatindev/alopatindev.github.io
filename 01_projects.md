@@ -6,6 +6,14 @@ permalink: /projects/
 
 ## Personal Projects
 
+#### [cargo-limit](https://github.com/alopatindev/cargo-limit)
+A wrapper for cargo (Rust's package manager) which generates more readable output:
+warnings are skipped until errors are fixed, etc.
+<div class="tags">
+  <span class="tag">Rust</span>
+  <span class="tag">Cargo</span>
+</div>
+
 #### [codonaft.com](https://codonaft.com)
 Russian blog + [**vlog about programming**](https://www.youtube.com/channel/UCjNAnQpPQydNLTHcVz0s44A)
 for novice developers.
