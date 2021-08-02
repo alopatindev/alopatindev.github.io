@@ -88,7 +88,7 @@ Find the **corresponding note**, add a **source** and keep doing your current wo
 
 ![](/pictures/how-to-take-notes-like-a-programmer/todo-receiver.png)
 
-TODO comments are [considered as antipattern](http://wiki.c2.com/?TodoCommentsConsideredHarmful) by some developers,
+TODO comments are [considered as antipattern](https://wiki.c2.com/?TodoCommentsConsideredHarmful) by some developers,
 though I still find them useful for personal projects and notes.
 
 You **don't have to continue** your research in the future note review,
