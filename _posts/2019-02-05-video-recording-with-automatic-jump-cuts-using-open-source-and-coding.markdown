@@ -175,7 +175,7 @@ These are the requirements/features I set for a quick hack to solve the problem:
 [retries and resuming](https://gist.github.com/alopatindev/e94ff95ea834500abe2da81ac2a7764f)
 in case of failures,
 without blocking ability to record the next fragment.
-5. Sound [synchronization](https://nerd.mmccoo.com/2017/06/19/automatically-aligning-multiple-videoaudio-clips-in-kdenlive/).
+5. Sound [synchronization](https://web.archive.org/web/20170916044116/https://nerd.mmccoo.com/2017/06/19/automatically-aligning-multiple-videoaudio-clips-in-kdenlive/).
 6. Voice detection and pause dropping.
 7. Play last recorded fragments with dropped pauses.
 
